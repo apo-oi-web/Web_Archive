@@ -1,0 +1,4 @@
+insert into db_user values ('APOOI','apooi','apo','y');
+insert into db_history values ('2004-12-25 01:37:01','APOOI','apooi','apo','create','APO faternity webpage maintence');
+insert into mysql.db values ('%','APOOI','apooi','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','','');
+insert into mysql.user values ('%','apooi','5dd709224c9a61ba','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','Y','Y','Y','Y','Y','N','Y','','','','',0,0,0,0);

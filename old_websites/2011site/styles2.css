@@ -1,0 +1,300 @@
+@charset "utf-8";
+body {
+	background-image: url(img/bkg.jpg);
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#container {
+	background-image: url(img/bkg.jpg);
+	width: 815px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 0px;
+}
+#banner {
+	background-image: url(img/template_02.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 108px;
+	width: 815px;
+}
+#buttonBar {
+	height: 57px;
+	width: 815px;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	overflow: hidden;
+	top: 0px;
+}
+#topLeftNews {
+	position: relative;
+	left: 10px;
+	top: 10px;
+	width: 250px;
+	height: 170px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+#bodyContainer {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/template1_07.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#spacer {
+	height: 10px;
+}
+#bodyMidSect {
+	position: relative;
+	height: 205px;
+	width: 250px;
+	clear: both;
+	margin-top: 51px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 14px;
+	float: left;
+	text-align: center;
+}
+
+#topMidNews {
+	position: relative;
+	left: 32px;
+	top: 10px;
+	width: 250px;
+	height: 170px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+#topRightNews {
+	position: relative;
+	left: 50px;
+	top: 10px;
+	width: 250px;
+	height: 170px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+.newstitle {
+	font-size: 16px;
+	font-weight: bold;
+}
+.tobecont {
+	font-style: italic;
+	text-align: right;
+	font-size: 10px;
+	bottom: 1px;
+	position: absolute;
+	left: auto;
+	right: 1px;
+}
+.news {
+	text-align: justify;
+}
+#bodyHome {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/body_home.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#bodyService {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/body_service.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#serviceTop {
+	position: relative;
+	left: 10px;
+	top: 75px;
+	width: 785px;
+	height: 70px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+#service_body_text {
+	height: 355px;
+	width: 472px;
+	float: left;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	position: relative;
+	top: 138px;
+	left: 10px;
+	list-style-position: inside;
+}
+#service_body_pic {
+	height: 266px;
+	width: 230px;
+	float: right;
+	position: relative;
+	top: 225px;
+	right: 65px;
+}
+#bodyRecruit {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/body_recruit.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#recruitTop {
+	position: relative;
+	left: 10px;
+	top: 70px;
+	width: 785px;
+	height: 70px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+#recruit_body_text {
+	height: 175px;
+	width: 472px;
+	float: left;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	position: relative;
+	top: 98px;
+	left: 10px;
+	list-style-position: inside;
+}
+#recruit_body_pic {
+	height: 350px;
+	width: 264px;
+	float: right;
+	position: relative;
+	top: 122px;
+	right: 40px;
+}
+#recruit_body_pic2 {
+	height: 212px;
+	width: 283px;
+	float: left;
+	position: relative;
+	clear: both;
+	top: 0px;
+	left: 97px;
+}
+#recruit_body_text2 {
+	height: 300px;
+	width: 472px;
+	float: left;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	position: relative;
+	top: 130px;
+	left: 10px;
+	list-style-position: inside;
+}
+#bodyCalendar {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/body_calendar.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#calendarContainer {
+	height: 650px;
+	width: 765px;
+	float: left;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	position: relative;
+	top: 25px;
+	left: 25px;
+	list-style-position: inside;
+}
+#homeVideo1 {
+	position: relative;
+	left: 55px;
+	top: 75px;
+	width: 425px;
+	height: 344px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+#body404 {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/body404.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#body403 {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/body403.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#linksCenterHead {
+	width: 600px;
+	position: relative;
+	top: 70px;
+	height: 25px;
+	left: 100px;
+	font-size: 18px;
+}
+
+#bodyLinks {
+	height: 689px;
+	width: 815px;
+	background-image: url(img/body_links.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+#linksCenterBody {
+	width: 600px;
+	position: relative;
+	top: 80px;
+	height: 200px;
+	left: 100px;
+}
+#bodyMember {
+	height: 1030px;
+	width: 815px;
+	background-image: url(img/body_home_long.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}

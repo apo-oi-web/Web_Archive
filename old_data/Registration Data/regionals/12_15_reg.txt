@@ -1,0 +1,86 @@
+chapter -- Alpha Delta Eta
+School -- University @ Albany (SUNY Albany)
+region -- II
+Section -- 88
+FName -- Andy
+LName -- Kainz
+Registration? -- Yes
+Banquet? -- Yes
+brother -- ActiveBrother
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Nu Beta
+School -- Hope College
+region -- II
+Section -- 
+FName -- Aasha 
+LName -- Leahy
+Registration? -- Yes
+Banquet? -- Yes
+brother -- Staff
+Meal -- Chicken
+SpecialInfo -- NB is the chapter I advise in section 54.  My status should be listed as Region II staff.   Will be arriving on Dec 26 with Craig Muckle.  Check's in the mail on 12/12/99
+
+chapter --  
+School --  
+region -- VI
+Section -- 
+FName -- Michael
+LName -- Leahy
+Registration? -- Yes
+Banquet? -- Yes
+cpw -- Yes
+brother -- Staff
+Meal -- Chicken
+SpecialInfo -- I am the Region VI Leadership Development Cordinator.  I will be staffing the CPW.   Will be arriving on Dec 26 with Craig Muckle.  Check's in the mail on 12/12/99
+
+chapter -- Region II Staff
+School -- 
+region -- Region  II
+Section -- 
+FName -- Joe
+LName -- Morrone
+Banquet? -- Yes
+brother -- Staff
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Delta Eta
+School -- University at Albany
+region -- 2
+Section -- 88
+FName -- Jeremy
+LName -- Friend
+Registration? -- Yes
+Banquet? -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Iota Omicron
+School -- Gettysburg College
+region -- 2
+Section -- 90
+FName -- Brent
+LName -- LaRosa
+Banquet? -- Yes
+cpw -- Yes
+brother -- ActiveBrother
+Meal -- Chicken
+SpecialInfo -- My chapter has already paid $30 towards my registration fee (see payment from IO chapter).  I am registering late so my total bill should be 38+5 (late fee).  If you have not recieved my chapter's payment please contact me at sjp1996@aol.com   Otherwise, I will expect to pay the remaining $13 when I arrive.
+
+chapter -- Alpha Delta Eta
+School -- SUNY Albany
+region -- 2
+Section -- 88
+FName -- Allen
+LName -- Linken
+Registration? -- Yes
+Banquet? -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Meal -- Chicken
+SpecialInfo -- 
+

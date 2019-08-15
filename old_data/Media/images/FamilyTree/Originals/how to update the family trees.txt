@@ -1,0 +1,18 @@
+EDTING THE FAMILY TREES:
+
+Before you start, make sure you're using a computer that's decently fast. The raw (.docx) files bascially suck up all the speed you can give it. DO NOT attempt to edit the trees on the computer in the office. It's much too slow. And, don't have more than one of them open at a time. Yes, it's kinda a bitch to deal with these files, but patience is really all that's needed.
+
+
+NOTE: Brothers with muiltiple bigs are listed under each big, but their littles are only listed once. If you see a brother with an * after their name, that means they have another big, and that's where their littles are listed.
+
+
+TO ADD A BROTHER:
+----------------
+1) Right-click on a brother
+2) Go to "Add shape"
+3) Click "Add shape below"
+4) Type the new brother's name, followed by an ' * ' if they have another big and you want to list their littles under another big.
+
+You add a new brother by adding them "below" their big(s).
+
+

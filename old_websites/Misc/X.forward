@@ -1,0 +1,3 @@
+# Mail Forwarded to procmail mail filter
+"|IFS=' ';exec /usr/local/bin/procmail #apo@wpi"
+

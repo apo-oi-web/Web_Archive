@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Alpha Phi Omega - Recruitment</title>
+<link href="styles2.css" rel="stylesheet" type="text/css" />
+<script>
+home_on = new Image();
+home_off = new Image();
+home_on.src = "img/buttons/buttonover_02.jpg";
+home_off.src = "img/buttons/buttons_up_02.jpg";
+
+service_on = new Image();
+service_off = new Image();
+service_on.src = "img/buttons/buttonover_03.jpg";
+service_off.src = "img/buttons/buttons_up_03.jpg";
+
+recruit_on = new Image();
+recruit_off = new Image();
+recruit_on.src = "img/buttons/buttonover_04.jpg";
+recruit_off.src = "img/buttons/buttons_up_04.jpg";
+
+calen_on = new Image();
+calen_off = new Image();
+calen_on.src = "img/buttons/buttonover_05.jpg";
+calen_off.src = "img/buttons/buttons_up_05.jpg";
+
+media_on = new Image();
+media_off = new Image();
+media_on.src = "img/buttons/buttonover_06.jpg";
+media_off.src = "img/buttons/buttons_up_06.jpg";
+
+links_on = new Image();
+links_off = new Image();
+links_on.src = "img/buttons/buttonover_07.jpg";
+links_off.src = "img/buttons/buttons_up_07.jpg";
+
+members_on = new Image();
+members_off = new Image();
+members_on.src = "img/buttons/buttonover_08.jpg";
+members_off.src = "img/buttons/buttons_up_08.jpg";
+
+
+function button_on (imgId)
+{
+	if( document.images )
+	{
+		butOn = eval (imgId + "_on.src");
+		document.getElementById(imgId).src = butOn;
+	}
+}
+function button_off (imgId)
+{
+	if( document.images )
+	{
+		butOff = eval (imgId + "_off.src");
+		document.getElementById(imgId).src = butOff;
+	}
+}
+</script>
+</head>
+
+<body>
+<div id="container">
+<div id="banner"></div>
+<div id="buttonBar">
+<img src="img/buttons/buttonover_01.jpg" width="73" height="57" hspace="0" border="0"><a href="index.html"><img src="img/buttons/buttons_up_02.jpg" onmouseout="button_off('home'); return true" onmouseover="button_on('home'); return true" alt="Home" name="home" width="79" height="57" hspace="0" border="0" id="home" /></a><a href="service.html"><img src="img/buttons/buttons_up_03.jpg" onMouseOut="button_off('service'); return true" onMouseOver="button_on('service'); return true" alt="Service" name="service" width="85" height="57" hspace="0" border="0" id="service"></a><img src="img/buttons/buttons_down_04.jpg" alt="Recruitment" width="119" height="57" border="0" id="recruit" onmouseover="//button_on('recruit'); return true" onmouseout="//button_off('recruit'); return true"><a href="calendar.html"><img src="img/buttons/buttons_up_05.jpg" alt="Calendar" name="calen" width="97" height="57" border="0" id="calen" onMouseOver="button_on('calen'); return true" onMouseOut="button_off('calen'); return true"></a><a href="media.html"><img src="img/buttons/buttons_up_06.jpg" onMouseOut="button_off('media'); return true" onMouseOver="button_on('media'); return true" alt="Media" border="0" width="82" height="57" id="media"></a><a href="links.html"><img src="img/buttons/buttons_up_07.jpg" alt="Links" name="links" width="76" height="57" border="0" id="links" onMouseOver="button_on('links'); return true" onMouseOut="button_off('links'); return true"></a><a href="member.html"><img src="img/buttons/buttons_up_08.jpg" alt="Member Area" onMouseOut="button_off('members'); return true" onMouseOver="button_on('members'); return true" border="0" width="132" height="57" id="members"></a><img src="img/buttons/buttonover_09.jpg" width="71" height="57"></div>
+<div id="spacer"></div>
+<div id="bodyRecruit">
+<div id="recruitTop">
+  <div align="justify">
+    <p>We hold recruitment every semester, in the beginning of A  Term and in the beginning of C Term.&nbsp; Recruitment events are open to any  undergraduate&nbsp;student at&nbsp;WPI. </p>
+  </div>
+</div>
+<div id="recruit_body_pic"><img src="img/recruitment2.jpg" width="264" height="350" border="1" /></div>
+<div id="recruit_body_text"><span class="newstitle">Official Events:</span><br />
+<!--<p align="justify">  Attend as many of these as possible, send the Membership Vice President (MVP) excuses if you cannot attend! It's highly recomended to attend at least one of each of the following: an info session, a fellowship event, a service event, and the brother meeting. For any questions, email the MVP, at apo-membership@wpi.edu--></p>
+
+<p><h4>Recruitment Requirements for Fall 2011</h4>
+
+  </div>
+  <div id="recruit_body_text2"><span class="newstitle"></span><br />
+  
+  </div>
+</div>
+</div>
+</body>
+</html>

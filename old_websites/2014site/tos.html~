@@ -1,0 +1,76 @@
+<HTML>
+<head>
+<title>National Disclaimer</title>
+<link rel="stylesheet" type="text/css" href="Styles/APOstyle.css" />
+<script type="text/javascript" src="Javascript/functions.js"></script>
+</head>
+<body onload="setupRun();">
+
+<table align="center" class="container">
+
+<!--#include virtual="nav_links.inc" -->
+
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<!-- CONTENT GOES HERE -->
+
+<div class="header1"> Terms of Service </div>
+<p>
+Please see our <a href="disclaimer.html">national disclaimer</a> for information about the national organization of Alpha Phi Omega with regards to this website.
+</p>
+<p>
+For concerns about privacy, please see our <a href="privacy.html">privacy policy</a>.
+</p>
+<p>
+<b>Definitions</b>
+<ul>
+<li>Omicron Iota: The Omicron Iota chapter of Alpha Phi Omega at Worcester Polytechnic Institute.</li>
+<li>Website: All files under the following domain: http://users.wpi.edu/~apo/</li>
+<li>Content: Any text, images, videos, applets, documents, multimedia presentations, and any other part of the Omicron Iota website that a user can view.</li>
+<li>User: Any person who views pages and content presented on the website.</li>
+</ul>
+</p>
+<p>
+<b>Terms of Service</b>
+</p>
+<p>
+This website was created for and is managed by Omicron Iota. Property of content on this site is determined by the laws of the United States, the national office of Alpha Phi Omega, and Worcester Polytechnic Institute.
+</p>
+<p>
+Some of the content on this website requires password credentials to access. Any content requiring password credentials is solely for use by the brothers and pledges of Omicron Iota. All other users of this site are not permitted to access this material.
+</p>
+<p>
+This website contains images that have been uploaded to the Facebook social site by brothers, pledges, and prospective pledges of Omicron Iota. These images are tagged to an account maintained by Omicron Iota for the purposes of archive and presentation. The presentation of these and other images on this site is for presentational purposes only. The individuals uploading the images are responsible for their content and appropriateness with regards to the reputation of Omicron Iota and Alpha Phi Omega. The policies of Facebook require that the web chair is responsible for content appearing on this website when such content originates from Facebook. The web chair, Omicron Iota, and Facebook reserve the right to censor content from appearing on the website when such content originates from Facebook.
+</p>
+<p>
+This website does not provide any incentive to use Facebook social channels. Users are not obligated in any way to interact with content and functionality presented by Facebook.
+</p>
+<p>
+The opinions expressed on this website do not endorse Facebook in any way whatsoever. Furthermore, Facebook does not endorse this website, Omicron Iota, or the national office of Alpha Phi Omega.
+</p>
+<p>
+This website is published on web servers owned and operated by Worcester Polytechnic Institute (WPI). These terms are subject to the policies and regulations of WPI. Where these terms conflict with the policies and regulations of WPI, their policies and/or regulations will apply.
+</p>
+<p>
+These terms of service apply only to services provided by this website and not to services provided offline.
+</p>
+<p>
+By using this website, you consent to these terms of service.
+</p>
+
+<!-- CONTENT STOPS HERE -->
+<br>
+
+<!--#include virtual="footer_links.inc" -->
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

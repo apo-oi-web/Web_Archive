@@ -1,0 +1,193 @@
+body {
+background-color: #173a79;
+color: #ffffff;
+font-family: times new roman;
+font-size: 16pt;
+}
+
+.container {
+width:1024px;
+border:0px;
+border-color:#FFFFFF;
+border-spacing:0px;
+padding:0px;
+border-collapse:collapse;
+}
+
+.tbl1 {
+background-color: #08275e;
+position: relative;
+left: 154px;
+top: -2px;
+width: 665px;
+overflow-x:hidden;
+overflow-v: auto;
+padding-left:10px;
+padding-right:10px;
+
+}
+
+.table1 {
+border-collapse: collapse;
+padding: 0px;
+border: 5px solid #04142f;
+}
+
+p {
+color: #ffffff;
+font-family: times new roman;
+font-size: 16pt;
+}
+
+td.tbl {
+border: none;
+border-collapse:collapse;
+padding:3px 10px;
+color: white;
+font-family: times new roman;
+font-size: 13pt;
+border-left: 5px solid #04142f;
+border-right: 5px solid #04142f;
+}
+
+.header1 {
+color: #ffffff;
+text-align: center;
+font-size: 20pt;
+font-family: Century;
+border-bottom: 5px solid;
+border-bottom-color: #fab41d;
+font-weight: bold;
+}
+
+.header2 {
+color: #ffffff;
+text-align: center;
+font-size: 18pt;
+font-family: Century;
+border-bottom: 0px solid;
+border-bottom-color: #fab41d;
+}
+
+.header3 {
+color: #ffffff;
+text-align: center;
+font-size: 16pt;
+font-family: Century;
+border-bottom: 0px solid;
+border-bottom-color: #fab41d;
+}
+
+.header4 {
+border:1px solid black;
+border-collapse:collapse;
+padding:2px 5px;
+color: #ffffff;
+text-align: center;
+font-size: 14pt;
+font-family: Century;
+border-bottom: 0px solid;
+border-bottom-color: #fab41d;
+}
+
+.disclaimer a {
+color: #ffffff;
+font-size: 10pt;
+font-family: Century Gothic;
+text-decoration: none;
+}
+
+.disclaimer a:hover {
+color: #ffffff;
+font-size: 10pt;
+font-family: Century Gothic;
+}
+
+.disclaimer {
+width:665px;
+text-align: center;
+font-size: 10pt;
+font-family: Century Gothic;
+background-color: #173a79;
+}
+
+.links {
+position: relative;
+left: 310px;
+top: 23px;
+height: 50px;
+width: 523px;
+overflow: hidden;
+text-align:center;
+}
+
+.headinglinks a {
+color: #ffffff;
+font-family: garamond;
+font-size: 16pt;
+text-decoration: none;
+}
+
+.headinglinks a:hover {
+color: #173a79;
+text-decoration: none;
+}
+
+a {
+color: #ffd700;
+font-family: garamond;
+font-size: 16pt;
+text-decoration: underline;
+font-weight: bold;
+}
+
+a:hover {
+color: #fab41d;
+font-family: garamond;
+text-decoration: underline;
+font-weight: bold;
+}
+
+.photo1 {
+float: right;
+padding: 5px;
+}
+
+.photo2 {
+float: left;
+padding: 5px;
+}
+
+td.tab {
+width:10px;
+}
+
+.faq {
+margin: 30px;
+border: 5px solid #04142f;
+border-radius: 12px;
+background: #04142f;
+}
+
+.faq h2 {
+	color: #999900;
+}
+
+#campusmap{
+	width: 594px;
+	height: 768px;
+	border-radius: 6px;
+}
+
+.map{
+	text-align: center;
+}
+
+.video{
+	text-align: center;
+}
+
+.newsfirst{
+	font-size: 24px;
+	font-weight: bold;
+}

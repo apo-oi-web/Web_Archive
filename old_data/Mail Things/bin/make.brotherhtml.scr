@@ -1,0 +1,83 @@
+#! /bin/tcsh
+if ("$SHLVL" == "2") then
+
+##==========================================================##
+
+#----------------------------------------------#
+cat<<ENDHEAD >! brothers.html
+<html>
+<head>
+<title> The men and women of OI </title>
+</head>
+<body>
+
+<h1> What makes up OIseter? Well lets see there is a: </h1> <P>
+
+ENDHEAD
+#----------------------------------------------#
+
+#  grep -v \# ~apo/.friends | grep \< | cut -f1 -d\< >> brothers.html
+  grep -v \# ~apo/.friends | grep \< | cut -f1 -d\< | awk '{print $NF,"," $1}' | sort -bin | awk -F\, '{print $NF, $1,", "}' >>brothers.html
+
+#----------------------------------------------#
+cat <<ENDFOOT >>brothers.html
+
+<P>
+<h1>The OIster recipe should be out with the new APO cookbook</h1><P>
+<A HREF="http://www.wpi.edu/~apo/brothers.home.html">
+OI Brothers</a> with Home Pages<P>
+<hr>
+Back to the <A HREF="http://www.wpi.edu/~apo/">APO Home Page</a><P>
+Revised `date`. 
+(Brian Pothier <<A HREF="mailto:bdp@wpi.edu">bdp@wpi.edu</a>>)<P>
+</body>
+</html>
+ENDFOOT
+#----------------------------------------------#
+
+##==========================================================##
+
+  grep wpi ~apo/.friends|cut -f2 -d\< |cut -f1 -d@ |sort -bin |uniq >>/tmp/.$$.$USER
+  ($0 </tmp/.$$.$USER >! brothers.home.html) >& /dev/null
+  /bin/rm -f /tmp/.$$.$USER
+  chmod 644 brothers.html brothers.home.html
+
+##==========================================================##
+
+else if ("$SHLVL" == "3") then
+  unset noglob
+#----------------------------------------------#
+cat<<ENDHEAD 
+<html>
+<head>
+<title> OI Brothers with Home Pages </title>
+</head>
+<body>
+
+<h1> OI Brothers with Home Pages </h1> <P>
+<UL>
+ENDHEAD
+#----------------------------------------------#
+
+  set xx=$<
+  while ("$xx" != "")
+    set name=`grep ^$xx\: /etc/passwd |cut -f5 -d: |cut -f1 -d,`
+    if (`ls -d ~$xx/public_html` != "") then
+      echo "<li><A HREF="http://www.wpi.edu/~$xx/"> $name </a> <br> "
+    endif
+    set xx=$<
+  end
+cat <<ENDFOOT
+</ul>
+<P>
+<hr>
+Back to the <A HREF="http://www.wpi.edu/~apo/">APO Home Page</a><P>
+Revised `date`. 
+(Brian Pothier <<A HREF="mailto:bdp@wpi.edu">bdp@wpi.edu</a>>)<P>
+</body>
+</html>
+ENDFOOT
+#----------------------------------------------#
+
+endif
+

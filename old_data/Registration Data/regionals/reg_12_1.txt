@@ -1,0 +1,1105 @@
+chapter -- 
+School -- 
+region -- 1 Director 
+Section -- 
+FName -- Cheryl 
+LName -- Smith
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- NOTE: When Jack McKenzie - National President registers... no money is required.. he is covered by the Conference ! CLS 
+
+
+
+
+chapter -- Staff
+School -- 
+region -- I
+Section -- 97
+FName -- Andrew
+LName -- Braverman
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Gamma Lambda
+School -- Clemson University
+region -- IV
+Section -- 77
+FName -- Jack
+LName -- McKenzie
+brother -- Staff
+Submit2 -- Submit
+SpecialInfo -- Hi Brothers.  I will be attending the first part of your conference and then will leave in order to attend the latter part of the Region IV Conference.  I will arrive in Portland on Delta Flight #2042 at 4:40 p.m. on Monday, Dec. 27, and will leave on Delta Flight #1149 at 7:40 a.m. on Wednesday, Dec. 29.  Cheryl Smith has this information, but she asked me to submit a registration form for your records.  I look forward to visiting with you soon.  Fratnernally, Jack McKenzie, National President  11-23-99
+
+chapter -- Section 99 Staff
+School -- Section 99 Staff
+region -- I
+Section -- 99
+FName -- George
+LName -- Hassa
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- ABX
+School -- SUNY Plattsburgh
+region -- 2
+Section -- 
+FName -- Simon
+LName -- Robertson
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Section 92 & 91 Staff
+School -- 
+region -- Region II
+Section -- Sections 92 & 91
+FName -- Michael "Demon"
+LName -- Beyer
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Kosher
+SpecialInfo -- 
+
+chapter -- Epsilon Sigma
+School -- SUNY Buffalo
+region -- 2
+Section -- 89
+FName -- Allison
+LName -- Jones
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- Xi Zeta
+School -- RIT
+region -- 2
+Section -- 89
+FName -- Tod
+LName -- Burtchell
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Gamma Iota
+School -- University of the Sciences in Philadelphia
+region -- 2
+Section -- 92
+FName -- Sarah
+LName -- Moore
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Gamma Iota
+School -- University of the Sciences in Philadelphia
+region -- 2
+Section -- 92
+FName -- Shawn
+LName -- Boyle
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- Philadelphia 2000 National Convention Chairman
+Life Member
+
+chapter -- 
+School -- 
+region -- 1
+Section -- 99
+FName -- Milton
+LName -- Smith
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Section 92 chairman
+School -- 
+region -- II
+Section -- 92
+FName -- Alexander
+LName -- Kohr
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- 2
+Section -- 89
+FName -- Blondie
+LName -- Barnes
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- 2
+Section -- 89
+FName -- Howie
+LName -- Barnes
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- II
+Section -- 91/92
+FName -- Hayim
+LName -- Weiss
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Kosher
+SpecialInfo -- Please note:  I am submitting information for 3 people, the check will be sent out later this week.  If you need any presenters, please let me know -- I am more than happy to assist.  
+
+chapter -- 
+School -- 
+region -- II
+Section -- 91
+FName -- Meredith
+LName -- Schultz
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Kosher
+SpecialInfo -- Note: 2 of 3, Meredith is the Section 91 Chair, please record this for your registration records.
+
+chapter -- 
+School -- 
+region -- 
+Section -- 
+FName -- Sarah
+LName -- Weiss
+brother -- Friend
+Submit2 -- Submit
+Meal -- Kosher
+SpecialInfo -- Note: 3 of 3, I am awaiting to hear if my sister will be joining us or not, please add her to the meal count and registration for the time being - if she decides to come it will be reflected in my check.
+Thanks Hayim Weiss
+
+chapter -- Omicron Iota
+School -- WPI
+region -- 1
+Section -- 96
+FName -- Joseph
+LName -- Hausmann
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Section Staff
+School -- UVM
+region -- I
+Section -- 94
+FName -- Tom 
+LName -- Salter
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- alpha gamma eta
+School -- university of vermont
+region -- I
+Section -- 94
+FName -- Christine
+LName -- Dastalto
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- Omicron Iota
+School -- WPI
+region -- 1
+Section -- 96
+FName -- Kathryn
+LName -- Thorsen
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Omicron Iota
+School -- WPI
+region -- 1
+Section -- 96
+FName -- Matthew
+LName -- Grabowski
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Omicron Iota
+School -- WPI
+region -- 1
+Section -- 96
+FName -- Mike
+LName -- Gorse
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Zeta Gamma
+School -- Valparaiso University
+region -- 6
+Section -- 52
+FName -- Jennifer  "Flora"
+LName -- Koch
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- I'm from Zeta Gamma in Section 52 (Indiana), Region VI.  Would I still be allowed to participate, exhibition, in Roll Call or the APO Trivia contests?  Or, would I be able to do either of those with my host chapter that week (the Alpha Chis in Region I)?  I look forward to seeing you!  YiLFS, Flora   (e-mail:  jennyfromvalpo@yahoo.com)
+
+chapter -- Alpha Gamma Lambda
+School -- Albion College
+region -- VI
+Section -- 54
+FName -- Matthew
+LName -- Mann
+regck -- Yes
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Delta Eta
+School -- SUNY Albany
+region -- II
+Section -- 88
+FName -- Christine
+LName -- Rainsford
+regck -- Yes
+banck -- Yes
+brother -- Advisor
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- Alpha Gamma Eta
+School -- University of Vermont
+region -- one
+Section -- 94
+FName -- Katie
+LName -- Morwood
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- I'm vegan -- no dairy or eggs in my meal, please! :)
+
+chapter -- Staff
+School -- N/A
+region -- 1
+Section -- 94
+FName -- Stephen 
+LName -- Merrill
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Sigma Eta
+School -- Villanova University
+region -- 2
+Section -- 92
+FName -- Colleen
+LName -- Courtney
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Sigma Eta
+School -- Villanova University
+region -- 2
+Section -- 92
+FName -- Colleen 
+LName -- Courtney
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- WHEN I SUBMITTED THIS BEFORE, I FORGOT TO CHECK THAT I PLAN ON ATTENDING THE BANQUET.  PLEASE DELETE MY OTHER REGISTRATION AND USE THIS ONE! THANKS,COLLEEN
+
+chapter -- Iota Omdicron
+School -- Gettysburg College
+region -- II
+Section -- 2
+FName -- Philip
+LName -- Lyons
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- Pledge
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Sigma Eta
+School -- Villanova University
+region -- 2
+Section -- 92
+FName -- Meghan
+LName -- Cockroft
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- 
+Section -- 
+FName -- 
+LName -- 
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Section 89 Chair
+School -- --
+region -- II
+Section -- 89
+FName -- Ed
+LName -- Varel
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Beta Delta
+School -- Widener University
+region -- 2
+Section -- 92
+FName -- Clinton
+LName -- Latsha
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Theta Zeta
+School -- UNH
+region -- 1
+Section -- 94
+FName -- Allison
+LName -- Jordan
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Omicron Iota
+School -- Worcester Polytechnic Institute
+region -- 1
+Section -- 96
+FName -- Yusef
+LName -- Albader
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Beta
+School -- Penn State
+region -- 2
+Section -- 90
+FName -- Maureen
+LName -- Snare
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Epsilon Nu
+School -- SUNY Oswego
+region -- Region Two
+Section -- Section 89
+FName -- Heather
+LName -- Janus
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Omicron Iota
+School -- WPI
+region -- 1
+Section -- 96
+FName -- Jennifer
+LName -- Headman
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Theta Zeta
+School -- UNH
+region -- 1
+Section -- 94
+FName -- Steph
+LName -- Cote
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- region ii staff
+School -- (gamma/cornell alum)
+region -- 2
+Section -- 
+FName -- adrien
+LName -- kant
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- region ii staff
+School -- (gamma/cornell alum)
+region -- 2
+Section -- 
+FName -- adrien
+LName -- kant
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- name:        adrien
+nickname:    age ;-)
+whichever is
+used on nametags,
+please just spell it right
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Jon
+LName -- Doty
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Jon 
+LName -- Finch
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Jeremy
+LName -- Gray
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Tedd
+LName -- Cogar
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Mark
+LName -- Jordan
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Joseph
+LName -- Shaw
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Jeremy
+LName -- Shaw
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Chris
+LName -- Hack
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Josh
+LName -- Gray
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Matt
+LName -- Nadeau
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Sigma Xi
+School -- UMaine
+region -- 1
+Section -- 94
+FName -- Jason
+LName -- Gwinn
+regck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+SpecialInfo -- 
+
+chapter -- Pi Rho
+School -- Rider University
+region -- 1
+Section -- 99
+FName -- Peter
+LName -- Leing
+regck -- Yes
+banck -- Yes
+cpw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Pi Rho
+School -- Rider University
+region -- 1
+Section -- 99
+FName -- Gary
+LName -- Meinhardt
+regck -- Yes
+banck -- Yes
+cpw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Pi Rho
+School -- Rider University
+region -- 1
+Section -- 99
+FName -- Sarah
+LName -- Chardavoyne
+regck -- Yes
+banck -- Yes
+cpw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- I
+Section -- 96
+FName -- Natalie
+LName -- Ferber
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- Will bring check to Regionals meeting on 12/5. :)
+
+chapter -- 
+School -- 
+region -- 1
+Section -- 94
+FName -- George
+LName -- Kober
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- 1
+Section -- 94
+FName -- Carla
+LName -- Moran
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Epsilon Zeta
+School -- RPI
+region -- II
+Section -- 88
+FName -- Bernard
+LName -- Derboven
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- Region II Alumni Chair
+May not stay entire conference at hotel, have family in the area
+
+chapter -- Alpha Gamma Eta
+School -- University of Vermont
+region -- 1
+Section -- 96
+FName -- Laura 
+LName -- Osborne
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- 
+Section -- 
+FName -- Gail
+LName -- Hinchey
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Epsilon Zeta
+School -- RPI
+region -- 2
+Section -- 88
+FName -- Jacob
+LName -- Berry
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- I will NOT be staying in the hotel. I will be located in the area for winter break.  Please let me know if there is anything I should be aware of regarding this.  Thank you  Email: berryb@rpi.edu 
+
+chapter -- epsilon nu
+School -- oswego state university
+region -- 2
+Section -- 89
+FName -- Holly
+LName -- Butler
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Gamma Eta
+School -- University of Vermont
+region -- 1
+Section -- 94
+FName -- Elizabeth 
+LName -- Laden
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- Iota Omicron
+School -- Gettysburg College
+region -- II
+Section -- 90
+FName -- Dave 
+LName -- Wiseman
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Kappa Omicron
+School -- UMass
+region -- 1
+Section -- ?
+FName -- Krystal
+LName -- Flechsig
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Kappa Omicron
+School -- Umass
+region -- 1
+Section -- ?
+FName -- Andrea
+LName -- Grimes
+regck -- Yes
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Alpha Beta
+School -- Penn State University
+region -- 2
+Section -- 90
+FName -- Christian 
+LName -- Collazo
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- I'm chilly, everyone knows me and loves me :)
+
+chapter -- Epsilon Sigma
+School -- SUNY at Buffalo
+region -- II
+Section -- 89
+FName -- Joe
+LName -- Chen
+regck -- Yes
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Section 94 Staff
+School -- 
+region -- I
+Section -- 94
+FName -- Wendy 
+LName -- Mrozek
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- I've already reserved my hotel room w/ the hotel. Check is in the mail.
+
+chapter -- Sigma Eta
+School -- Villanova University
+region -- 2
+Section -- 92
+FName -- Trish
+LName -- Kulp
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Mu Eta
+School -- Albright College
+region -- II
+Section -- 92
+FName -- Lynette 
+LName -- Shaw
+regck -- Yes
+banck -- Yes
+cpw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Mu Eta
+School -- Albright College
+region -- II
+Section -- 92
+FName -- Lynette 
+LName -- Shaw
+regck -- Yes
+banck -- Yes
+cpw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Mu Eta
+School -- Albright College
+region -- II
+Section -- 92
+FName -- Bob
+LName -- Bryant
+regck -- Yes
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Mu Eta
+School -- Albright College
+region -- Region II
+Section -- Section 92
+FName -- Sarah
+LName -- Kline
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- National
+Section -- 
+FName -- Dan, Betty, CJ & Bridget
+LName -- Rauch
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- In attendance:  Dan Rauch, National Alumni Relations/Internal Volunteer Development Program Director; Betty Rauch, BANC Coordinator; C.J. Rauch, Section 99 Kid; Bridget Rauch, Section 99 Kid
+
+
+
+Do you want the check mailed at this late date, or presented onsite?
+
+chapter -- Mu Eta
+School -- Albright College
+region -- 2
+Section -- 92
+FName -- Matt
+LName -- OhEigeartaigh
+regck -- Yes
+banck -- Yes
+cpw -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Mu Eta
+School -- Albright College
+region -- II
+Section -- 92
+FName -- Rosemary
+LName -- Lanigan
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Section 90 staff
+School -- 
+region -- II
+Section -- 90
+FName -- Wade
+LName -- Love
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- Section 88 Staff
+School -- 
+region -- II
+Section -- 88
+FName -- Peter
+LName -- Caracappa
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- I like traffic lights.
+
+chapter -- Mu Eta
+School -- Albright College
+region -- II
+Section -- 92
+FName -- Mark
+LName -- Glassman
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Kosher
+SpecialInfo -- 
+
+chapter -- Section 88 Staff
+School -- 
+region -- II
+Section -- 88
+FName -- Enrique
+LName -- Lopez
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- Are there mushromms in any of the meals?
+email to lopeze@rpi.edu
+Registering with Kristen Churchill, Section 88 Staff - payment will
+be sent together.
+
+chapter -- Section 88 Staff
+School -- 
+region -- II
+Section -- 88
+FName -- Kristen
+LName -- Churchill
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- Registering with Enrique Lopez - payment
+will be sent together.
+

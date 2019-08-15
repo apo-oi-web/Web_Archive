@@ -1,0 +1,1824 @@
+First_Name -- Mat
+Last_Name -- Maessen
+Chapter -- Epsilon Zeta
+School -- RPI
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 8
+Date -- 10
+Year -- 1974
+TShirt -- Yes
+
+First_Name -- Jeff 
+Last_Name -- Carson
+Chapter -- 
+School -- 
+Meal_Choice -- Kosher
+Brother_Status -- Staff
+Month -- 9
+Date -- 7
+Year -- 1974
+TShirt -- Yes
+
+First_Name -- Yusef
+Last_Name -- Albader
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 1
+Date -- 1
+Year -- 
+TShirt -- Yes
+
+First_Name -- Jennifer
+Last_Name -- Ross
+Chapter -- Epsilon Sigma
+School -- University at Buffalo
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 4
+Year -- 1978
+TShirt -- Yes
+
+First_Name -- Torberg
+Last_Name -- Tonnessen
+Chapter -- Epsilon Zeta
+School -- Rensselaer Polytechnic Institute
+Meal_Choice -- Vegitarian
+Brother_Status -- Alumni
+Month -- 1
+Date -- 25
+Year -- 1977
+TShirt -- Yes
+
+First_Name -- John
+Last_Name -- Grossi
+Chapter -- this one
+School -- this one
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 12
+Date -- 8
+Year -- 1973
+TShirt -- Yes
+
+First_Name -- John
+Last_Name -- Brosnan
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 1
+Date -- 1
+Year -- 2000
+TShirt -- Yes
+user_email_address -- brosnan@wpi.edu
+
+First_Name -- Thomas
+Last_Name -- Salter
+Chapter -- AGH
+School -- UVM
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 7
+Date -- 15
+Year -- 2000
+TShirt -- Yes
+user_email_address -- thomasjay@mindspring.com
+
+First_Name -- Ed
+Last_Name -- Pollack
+Chapter -- Epsilon Zeta
+School -- RPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 23
+Year -- 1979
+TShirt -- Yes
+user_email_address -- pollae@rpi.edu
+
+First_Name -- Richard D.
+Last_Name -- Quodomine
+Chapter -- 
+School -- 
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 5
+Date -- 28
+Year -- 1974
+TShirt -- Yes
+user_email_address -- Satan_Scores@hotmail.com
+
+First_Name -- Melissa
+Last_Name -- Hoyle
+Chapter -- Alpha Beta Psi
+School -- Roanoke College
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 15
+Year -- 1977
+TShirt -- Yes
+user_email_address -- mhoyle@roanoke.edu
+
+First_Name -- Matthew
+Last_Name -- Grabowski
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 11
+Date -- 18
+Year -- 2000
+TShirt -- Yes
+user_email_address -- mattg@wpi.edu
+
+First_Name -- Edie
+Last_Name -- Heydt
+Chapter -- Epsilon Gamma
+School -- Alfred University
+Meal_Choice -- Vegetarian
+Brother_Status -- Alumni
+Month -- 10
+Date -- 30
+Year -- 1976
+TShirt -- Yes
+user_email_address -- edie@nycap.rr.com
+
+First_Name -- Michael
+Last_Name -- Gorse
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 6
+Year -- 1979
+TShirt -- Yes
+user_email_address -- mgorse@wpi.edu
+
+First_Name -- Crash
+Last_Name -- Saunders
+Chapter -- Phi Epsilon
+School -- Maine Maritime Academy
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 3
+Date -- 18
+Year -- 1980
+TShirt -- Yes
+user_email_address -- bsaunder@bell.mma.edu
+
+First_Name -- Becca
+Last_Name -- Maynard
+Chapter -- Phi Epsilon
+School -- Maine Maritime Academy
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 19
+Year -- 1979
+TShirt -- Yes
+user_email_address -- rmaynard@bell.mma.edu
+
+First_Name -- Jamie
+Last_Name -- Eslinger
+Chapter -- Phi Epsilon
+School -- Maine Maritime Academy
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 9
+Date -- 2
+Year -- 1980
+TShirt -- Yes
+user_email_address -- jeslinge@bell.mma.edu
+
+First_Name -- Erik
+Last_Name -- Rider
+Chapter -- PE/AGH/OI
+School -- MMA/UVM/WPI
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 7
+Date -- 31
+Year -- 2000
+TShirt -- Yes
+user_email_address -- bro_ua@angelfire.com
+
+First_Name -- A.R.
+Last_Name -- Broge
+Chapter -- Phi Epsilon
+School -- Maine Maritime Academy
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 11
+Date -- 12
+Year -- 1977
+user_email_address -- abroge@bell.mma.edu
+
+First_Name -- Jimmy
+Last_Name -- Cook
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 1
+Date -- 12
+Year -- 1979
+TShirt -- Yes
+user_email_address -- jccook@wpi.edu
+
+First_Name -- Jason
+Last_Name -- Hudson
+Chapter -- OI
+School -- WPI
+Brother_Status -- Active
+Month -- 1
+Date -- 1
+Year -- 2000
+user_email_address -- hudrock@wpi.edu
+
+First_Name -- Jason
+Last_Name -- Hudson
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 6
+Date -- 18
+Year -- 1979
+user_email_address -- hudrock@wpi.edu
+
+First_Name -- Erin
+Last_Name -- Sullivan
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 5
+Date -- 13
+Year -- 1980
+user_email_address -- esulli@wpi.edu
+
+First_Name -- Erin
+Last_Name -- Sullivan
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 5
+Date -- 13
+Year -- 1980
+TShirt -- Yes
+user_email_address -- esulli@wpi.edu
+
+First_Name -- Joseph 
+Last_Name -- Hausmann
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 4
+Date -- 7
+Year -- 1978
+TShirt -- Yes
+user_email_address -- joehouse@wpi.edu
+
+First_Name -- Vickie
+Last_Name -- Wu
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 18
+Year -- 1980
+TShirt -- Yes
+user_email_address -- wuhoo@wpi.edu
+
+First_Name -- Jennifer
+Last_Name -- Headman
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 26
+Year -- 1979
+TShirt -- Yes
+user_email_address -- headman@wpi.edu
+
+First_Name -- test me
+Last_Name -- brosnan
+Chapter -- oi
+School -- wpi
+Meal_Choice -- Vegetarian
+Brother_Status -- radiobutton
+Month -- 5
+Date -- 24
+Year -- 1978
+LDW -- Yes
+TShirt -- Yes
+user_email_address -- brosnan@wpi.edu
+
+First_Name -- Nina
+Last_Name -- Simon
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 7
+Date -- 15
+Year -- 1981
+user_email_address -- nsimon@wpi.edu
+
+First_Name -- Matthew
+Last_Name -- Hilt
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 3
+Date -- 1
+Year -- 1980
+user_email_address -- matthilt@wpi.edu
+
+First_Name -- melissa
+Last_Name -- kachura
+Chapter -- oi
+School -- wpi
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 9
+Date -- 29
+Year -- 1978
+TShirt -- Yes
+user_email_address -- zilahami@wpi.edu
+
+First_Name -- Katie
+Last_Name -- Bouffard
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 2
+Date -- 25
+Year -- 1980
+user_email_address -- katie@wpi.edu
+
+First_Name -- Peri 
+Last_Name -- Nelson
+Chapter -- Epsilon Sigma
+School -- SUNY at Buffalo
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 9
+Date -- 1
+Year -- 1977
+user_email_address -- pmnelson@acsu.buffalo.edu
+
+First_Name -- Jonathan
+Last_Name -- Manning
+Chapter -- Omicron Iota
+School -- Worcester Polytechnic Institute
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 29
+Year -- 1978
+TShirt -- Yes
+user_email_address -- jmanning@wpi.edu
+
+First_Name -- Kathryn
+Last_Name -- Thorsen
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 3
+Date -- 5
+Year -- 1978
+TShirt -- Yes
+user_email_address -- katiet@wpi.edu
+
+First_Name -- Vishnu
+Last_Name -- Pandey
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 11
+Date -- 23
+Year -- 1979
+TShirt -- Yes
+user_email_address -- vpandey@wpi.edu
+
+First_Name -- Kate
+Last_Name -- Manning
+Chapter -- Omicron Iota
+School -- Worcester Polytechnic Institute
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 4
+Date -- 29
+Year -- 1980
+user_email_address -- kmanning@wpi.edu
+
+First_Name -- Steve
+Last_Name -- Britton
+Chapter -- Phi Epsilon
+School -- Maine Maritime Academy
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 9
+Date -- 2
+Year -- 1977
+TShirt -- Yes
+user_email_address -- sbritton@bell.mma.edu
+
+First_Name -- Andrea
+Last_Name -- Feijo
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 9
+Year -- 1978
+user_email_address -- feijo@wpi.edu
+
+First_Name -- Jami
+Last_Name -- Ricard
+Chapter -- omicron iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 1
+Date -- 13
+Year -- 1979
+TShirt -- Yes
+user_email_address -- jami@wpi.edu
+
+First_Name -- Estelle
+Last_Name -- Houde
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 23
+Year -- 1980
+TShirt -- Yes
+user_email_address -- ehoude@wpi.edu
+
+First_Name -- Alex
+Last_Name -- Borrelli
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 29
+Year -- 1979
+user_email_address -- apb@wpi.edu
+
+First_Name -- Andrew
+Last_Name -- Oleson
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 2
+Date -- 20
+Year -- 2000
+LDW -- Yes
+TShirt -- Large
+user_email_address -- aoleson@wpi.edu
+
+First_Name -- Max
+Last_Name -- Pistilli
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 4
+Date -- 30
+Year -- 1979
+TShirt -- X-Large
+user_email_address -- pistilli@wpi.edu
+
+First_Name -- Matt 
+Last_Name -- Crawford
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 11
+Date -- 22
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- corvi@wpi.edu
+
+First_Name -- Timothy
+Last_Name -- Hogan
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 4
+Date -- 21
+Year -- 1978
+TShirt -- Large
+user_email_address -- sage@wpi.edu
+
+First_Name -- Charles
+Last_Name -- Dunn
+Chapter -- Phi Epsilon
+School -- Maine Maritime Academy
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 30
+Year -- 1976
+TShirt -- X-Large
+user_email_address -- cdunn@bell.mmaedu
+
+First_Name -- Bernard
+Last_Name -- Derboven
+Chapter -- Epsilon Zeta
+School -- RPI
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 11
+Date -- 10
+Year -- 1971
+TShirt -- X-Large
+user_email_address -- bthmd@capital.net
+
+First_Name -- Johanna
+Last_Name -- Tenczar
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 6
+Date -- 21
+Year -- 1979
+TShirt -- Large X-Large
+user_email_address -- jtenczar@wpi.edu
+
+First_Name -- Christine
+Last_Name -- Rainsford
+Chapter -- Alpha Delta Eta
+School -- SUNY Albany
+Meal_Choice -- Vegetarian
+Brother_Status -- Alumni
+Month -- 4
+Date -- 4
+Year -- 1974
+TShirt -- Medium
+user_email_address -- corporateslave@yahoo.com
+
+First_Name -- David
+Last_Name -- Boulanger
+Chapter -- OI Alum.
+School -- WPI
+Meal_Choice -- Vegetarian
+Brother_Status -- Staff
+Month -- 1
+Date -- 11
+Year -- 1975
+user_email_address -- ostratalis@aol.com
+
+First_Name -- Sumiko
+Last_Name -- Miles
+Chapter -- Alpha Delta Eta
+School -- U at Albany
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 2
+Date -- 7
+Year -- 1969
+LDW -- Yes
+TShirt -- Large
+user_email_address -- sumiko31@ureach.com
+
+First_Name -- Ryan
+Last_Name -- McDaniel
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 1
+Date -- 22
+Year -- 1976
+TShirt -- Large
+user_email_address -- rmcdaniel@alum.wpi.edu
+
+First_Name -- Jennifer
+Last_Name -- Marinello
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 3
+Date -- 13
+Year -- 1978
+TShirt -- Large
+user_email_address -- jmari@wpi.edu
+
+First_Name -- Sky
+Last_Name -- Thorring
+Chapter -- Kappa Omicron
+School -- UMASS-Amherst
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 2
+Date -- 17
+Year -- 2000
+TShirt -- Medium
+user_email_address -- skyt@student.umass.edu
+
+First_Name -- Laura
+Last_Name -- Costa
+Chapter -- Alpha Beta Zeta
+School -- Radford University 
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 7
+Date -- 4
+Year -- 1971
+TShirt -- X-Large
+user_email_address -- costal2@juno.com
+
+First_Name -- Albert 
+Last_Name -- Gordon
+Chapter -- Alpha Beta Psi
+School -- Roanoke College
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 1
+Date -- 30
+Year -- 2000
+TShirt -- X-Large
+user_email_address -- algordon@hotmail.com
+
+First_Name -- Sandeep
+Last_Name -- Nandy
+Chapter -- 
+School -- 
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 8
+Date -- 30
+Year -- 1972
+TShirt -- Large
+user_email_address -- Sandeep.Nandy@BellAtlantic.com
+
+First_Name -- Mindy
+Last_Name -- Brown
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 8
+Date -- 27
+Year -- 1978
+TShirt -- Large
+user_email_address -- mindyb9@juno.com
+
+First_Name -- Jennifer
+Last_Name -- Scheipers
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 1
+Date -- 30
+Year -- 1981
+TShirt -- Medium
+user_email_address -- jen_s@wpi.edu
+
+First_Name -- brad
+Last_Name -- F
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 13
+Year -- 1978
+user_email_address -- bfoulkes
+
+First_Name -- brad
+Last_Name -- F
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 13
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- bfoulkes
+
+First_Name -- Stacy 
+Last_Name -- Wendkos
+Chapter -- Eta Phi
+School -- American University
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 4
+Date -- 12
+Year -- 1976
+TShirt -- Large
+user_email_address -- StacyLynne@mindspring.com
+
+First_Name -- Nefertiti
+Last_Name -- Smith
+Chapter -- Epsilon Gamma
+School -- Alfred
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 6
+Date -- 22
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- smithnn@alfred.edu
+
+First_Name -- Lisa
+Last_Name -- Norkus
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 16
+Year -- 1977
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- norkus@wpi.edu
+
+First_Name -- Alex
+Last_Name -- Knapp
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 5
+Date -- 26
+Year -- 1979
+TShirt -- X-Large
+user_email_address -- jaknapp@wpi.edu
+
+First_Name -- Marybeth
+Last_Name -- Frantz
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 9
+Date -- 7
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- marybeth@wpi.edu
+
+First_Name -- Michele
+Last_Name -- Kaplan
+Chapter -- Kappa Omicron
+School -- UMASS Amherst
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 3
+Year -- 2000
+TShirt -- Large
+user_email_address -- michelee@student.umass.edu
+
+First_Name -- Adam
+Last_Name -- Rogers
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 11
+Date -- 30
+Year -- 1980
+TShirt -- Large
+user_email_address -- wheezy@wpi.edu
+
+First_Name -- Sean 
+Last_Name -- Stapleton
+Chapter -- Alpha Omicron
+School -- First in Texas, We Rule the World!
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 8
+Date -- 26
+Year -- 1973
+TShirt -- X-Large
+user_email_address -- seans@micrografx.com
+
+First_Name -- Kara
+Last_Name -- Ploof
+Chapter -- Alpha Gamma Eta
+School -- University of Vermont
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 12
+Date -- 30
+Year -- 1976
+TShirt -- Large
+user_email_address -- pegasus9@together.net
+
+First_Name -- Maureen
+Last_Name -- McDonnell
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 7
+Date -- 16
+Year -- 1981
+TShirt -- Medium
+user_email_address -- mmcd@wpi.edu
+
+First_Name -- krystal
+Last_Name -- flechsig
+Chapter -- KO
+School -- umass
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 2
+Date -- 6
+Year -- 2000
+TShirt -- Large
+user_email_address -- flechsig@yahoo.com
+
+First_Name -- Chris
+Last_Name -- Phillips
+Chapter -- Kappa Omicron
+School -- Umass Amherst
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 3
+Date -- 18
+Year -- 1978
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- demophon35@yahoo.com
+
+First_Name -- Dan
+Last_Name -- Flechsig
+Chapter -- Kappa Omicron
+School -- Umass Amherst
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 11
+Date -- 18
+Year -- 1979
+TShirt -- X-Large
+user_email_address -- big_diesal_01085@yahoo.com
+
+First_Name -- Lisa
+Last_Name -- Torres
+Chapter -- Kappa Omicron
+School -- Umass Amherst
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 7
+Date -- 12
+Year -- 1980
+TShirt -- X-Large
+user_email_address -- torres@student.umass.edu
+
+First_Name -- Nicole
+Last_Name -- Armstrong
+Chapter -- Kappa Omicron
+School -- Umass Amherst
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 1
+Date -- 24
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- n1kknakk@aol.com
+
+First_Name -- Beth
+Last_Name -- Schweinsberg
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 9
+Date -- 7
+Year -- 1978
+TShirt -- Large
+user_email_address -- speakie@wpi.edu
+
+First_Name -- Sean
+Last_Name -- Kowalik
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 7
+Date -- 7
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- erinlhg@wpi.edu
+
+First_Name -- Danielle
+Last_Name -- Edwards
+Chapter -- Kappa Omicron
+School -- UMASS Amherst
+Meal_Choice -- Vegetarian
+Brother_Status -- Pledge
+Month -- 5
+Date -- 13
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- sunpooh@usa.net
+
+First_Name -- Alissa 
+Last_Name -- Daniels
+Chapter -- Kappa Omicron
+School -- UMASS
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 5
+Date -- 17
+Year -- 1980
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- AJD80@aol.com
+
+First_Name -- Amanda 
+Last_Name -- McCreary
+Chapter -- Kappa Omicron
+School -- UMASS
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 1
+Date -- 23
+Year -- 1979
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- McCreal@student.umass.edu
+
+First_Name -- Sally
+Last_Name -- Nobrega
+Chapter -- Kappa Omicron
+School -- UMASS
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 7
+Date -- 7
+Year -- 1978
+user_email_address -- sallyn@bigfoot.com
+
+First_Name -- Lynn 
+Last_Name -- Schmeichel
+Chapter -- Kappa Omicron
+School -- UMASS
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 7
+Date -- 5
+Year -- 2000
+LDW -- Yes
+user_email_address -- lynns@student.umass.edu
+
+First_Name -- Ally
+Last_Name -- Burke
+Chapter -- Kappa Omicron
+School -- UMASS
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 23
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- Da2ferrets@hotmail.com
+
+First_Name -- Mike 
+Last_Name -- Goldstein
+Chapter -- Kappa Omicron
+School -- UMASS
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 1
+Date -- 23
+Year -- 1979
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- mbgoldst@student.umass.edu
+
+First_Name -- Jen
+Last_Name -- Hardy
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 9
+Year -- 1978
+TShirt -- small
+user_email_address -- jehardy@wpi.edu
+
+First_Name -- Kerri
+Last_Name -- Dagesse
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 11
+Date -- 4
+Year -- 1980
+TShirt -- Medium
+user_email_address -- kdagesse@wpi.edu
+
+First_Name -- Tanja
+Last_Name -- Winkler
+Chapter -- Alpha Gamma Eta
+School -- University of Vermont
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 10
+Date -- 1
+Year -- 1979
+TShirt -- Medium
+user_email_address -- twikler@zoo.uvm.edu
+
+First_Name -- Leslie 
+Last_Name -- Linher
+Chapter -- Alphe Gamma Eta
+School -- Universoty of Vemont
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 1
+Date -- 9
+Year -- 1979
+user_email_address -- Llinher@zoo.uvm.edu
+
+First_Name -- Laura 
+Last_Name -- Osborne
+Chapter -- Alhpa Gamma Eta
+School -- University of Vermont
+Brother_Status -- Active
+Month -- 3
+Date -- 12
+Year -- 1980
+user_email_address -- Losborne@zoo.uvm.edu
+
+First_Name -- Katherine
+Last_Name -- Kavney
+Chapter -- Alpha Gamma Eta
+School -- University of Vermont
+Brother_Status -- Active
+Month -- 10
+Date -- 17
+Year -- 1979
+user_email_address -- kkavney@zoo.uvm.edu
+
+First_Name -- Donna
+Last_Name -- Dietz
+Chapter -- EZ
+School -- RPI
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 7
+Date -- 23
+Year -- 0001
+user_email_address -- dietzd@rpi.edu
+
+First_Name -- Christine
+Last_Name -- Dastalto
+Chapter -- Alpha Gamma Eta
+School -- University of Vermont
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 10
+Date -- 11
+Year -- 1979
+user_email_address -- cdastalt@zoo.uvm.edu
+
+First_Name -- Allison
+Last_Name -- Jordan
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 12
+Year -- 1979
+user_email_address -- apj@cisunix.unh.edu
+
+First_Name -- Stephanie 
+Last_Name -- Cote
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 12
+Year -- 1979
+user_email_address -- slcote@cisunix.unh.edu
+
+First_Name -- Peggy
+Last_Name -- Foss
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 9
+Date -- 9
+Year -- 1978
+TShirt -- Medium
+user_email_address -- pafoss@cisunix.unh.edu
+
+First_Name -- Emily
+Last_Name -- McCormack
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 8
+Date -- 29
+Year -- 1977
+user_email_address -- eamc@cisunix.unh.edu
+
+First_Name -- Brendan
+Last_Name -- O'Brien
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 2
+Date -- 15
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- byob@cisunix.unh.edu
+
+First_Name -- Billy
+Last_Name -- Hurd
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 7
+Date -- 27
+Year -- 1977
+TShirt -- X-Large
+user_email_address -- wsh@cisunix.unh.edu
+
+First_Name -- Liz
+Last_Name -- Kackenmeister
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 19
+Year -- 1978
+user_email_address -- futballgal@excite.com
+
+First_Name -- Alyssa
+Last_Name -- Abraham
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 1
+Date -- 26
+Year -- 1980
+user_email_address -- aabraham@cisunix.unh.edu
+
+First_Name -- Lidi
+Last_Name -- Pauliukonis
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Vegetarian
+Brother_Status -- Pledge
+Month -- 7
+Date -- 5
+Year -- 1979
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- bsg1@cisunix.unh.edu
+
+First_Name -- Jennifer
+Last_Name -- Holmboe
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 10
+Date -- 31
+Year -- 1977
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- jholmboe@hotmail.com
+
+First_Name -- Kelly
+Last_Name -- Riley
+Chapter -- Theta Zeta
+School -- UNH
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 6
+Date -- 15
+Year -- 1980
+TShirt -- Medium
+user_email_address -- KelRiley15@yahoo.com
+
+First_Name -- Tamara
+Last_Name -- Crowe
+Chapter -- ask Mubear
+School -- Drexel University
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 6
+Date -- 2
+Year -- 1979
+user_email_address -- tamara@drexel.edu
+
+First_Name -- Michael
+Last_Name -- Ban
+Chapter -- Kappa Omicron
+School -- UMass
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 27
+Year -- 1977
+TShirt -- Large
+user_email_address -- mykl@student.umass.edu
+
+First_Name -- Virginia (Gina)
+Last_Name -- Ebbett
+Chapter -- Alpha Beta Psi
+School -- Roanoke College
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 5
+Date -- 7
+Year -- 1979
+TShirt -- Large
+user_email_address -- aravir@aol.com
+
+First_Name -- Jon
+Last_Name -- Finch
+Chapter -- Sigma Xi
+School -- Umaine-orono
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 27
+Year -- 1979
+user_email_address -- jonathan.finch@umit.maine.edu
+
+First_Name -- Jeremy
+Last_Name -- Gray
+Chapter -- Sigma Xi
+School -- Umaine-Orono
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 6
+Date -- 14
+Year -- 1977
+user_email_address -- jeremy.gray@umit.maine.edu
+
+First_Name -- Patti
+Last_Name -- Mallozzi
+Chapter -- Alpha Beta Psi
+School -- Roanoke College
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 5
+Date -- 28
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- pmallozz@roanoke.edu
+
+First_Name -- Scott
+Last_Name -- Miller
+Chapter -- Alpha Beta Psi
+School -- Roanoke College
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 2
+Date -- 6
+Year -- 1981
+TShirt -- Large
+user_email_address -- sjmiller@roanoke.edu
+
+First_Name -- Bill
+Last_Name -- Gagnon
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 3
+Date -- 31
+Year -- 1970
+user_email_address -- BillGagnon@aol.com
+
+First_Name -- Brian
+Last_Name -- Gomez
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 2
+Date -- 18
+Year -- 1975
+TShirt -- Large
+user_email_address -- BSGomes@student.umass.edu
+
+First_Name -- Courtney
+Last_Name -- McManus
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 1
+Date -- 2
+Year -- 1979
+TShirt -- Large
+user_email_address -- Dzscarlett@hotmail.com
+
+First_Name -- Laura
+Last_Name -- Cerritelli
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 3
+Date -- 21
+Year -- 1981
+TShirt -- Medium
+user_email_address -- lokie@mit.edu
+
+First_Name -- Joe
+Last_Name -- Foley
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 7
+Date -- 29
+Year -- 1976
+TShirt -- Medium
+user_email_address -- foley@mit.edu
+
+First_Name -- Carolyn
+Last_Name -- Jones
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 2
+Date -- 4
+Year -- 1978
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- carolynj@mit.edu
+
+First_Name -- Ian
+Last_Name -- Lai
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 2
+Year -- 1980
+TShirt -- Large
+user_email_address -- ilai@mit.edu
+
+First_Name -- Andrew
+Last_Name -- Lynn
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 17
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- alynn@mit.edu
+
+First_Name -- Emily
+Last_Name -- Marcus
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 17
+Year -- 1979
+TShirt -- Large
+user_email_address -- emarcus@mit.edu
+
+First_Name -- Yevgeniya
+Last_Name -- Nusinovich
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 21
+Year -- 1980
+TShirt -- Medium
+user_email_address -- ynusi@mit.edu
+
+First_Name -- Sara
+Last_Name -- Pickett
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 11
+Date -- 2
+Year -- 1976
+TShirt -- X-Large
+user_email_address -- sarac@mit.edu
+
+First_Name -- Jennifer
+Last_Name -- Shih
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 12
+Date -- 3
+Year -- 1973
+user_email_address -- jws@mit.edu
+
+First_Name -- Ari
+Last_Name -- Wilkenfeld
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Kosher
+Brother_Status -- Active
+Month -- 2
+Date -- 23
+Year -- 19--
+TShirt -- X-Large
+user_email_address -- ajw@mit.edu
+
+First_Name -- Eric
+Last_Name -- Downes
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 10
+Date -- 24
+Year -- 1980
+TShirt -- X-Large
+user_email_address -- edown@mit.edu
+
+First_Name -- Chris
+Last_Name -- Leger
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 11
+Date -- 17
+Year -- 1981
+TShirt -- Large
+user_email_address -- clleger@mit.edu
+
+First_Name -- Dave
+Last_Name -- Lipsky
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 1
+Date -- 19
+Year -- 1981
+TShirt -- Large
+user_email_address -- lippo@mit.edu
+
+First_Name -- Aaron
+Last_Name -- Ucko
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 12
+Date -- 25
+Year -- 1977
+TShirt -- Large
+user_email_address -- amu@mit.edu
+
+First_Name -- Richard
+Last_Name -- Donovan
+Chapter -- Staff
+School -- 
+Meal_Choice -- Regular
+Brother_Status -- Staff
+Month -- 2
+Date -- 5
+Year -- 1970
+user_email_address -- donovr@compuserve.com
+
+First_Name -- Shelley
+Last_Name -- Duvall
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 2
+Date -- 20
+Year -- 1981
+user_email_address -- maduvall@mit.edu
+
+First_Name -- Stephanie
+Last_Name -- Fried
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Vegetarian
+Brother_Status -- Pledge
+Month -- 1
+Date -- 7
+Year -- 1981
+TShirt -- X-Large
+user_email_address -- eowyn@mit.edu
+
+First_Name -- Laura
+Last_Name -- Paul
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 9
+Date -- 13
+Year -- 1980
+TShirt -- small
+user_email_address -- lpaul913@wpi.edu
+
+First_Name -- Sara 
+Last_Name -- Barron
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 5
+Date -- 24
+Year -- 1980
+TShirt -- Medium
+user_email_address -- saracdb@mit.edu
+
+First_Name -- Aletta
+Last_Name -- Wallace
+Chapter -- Alpha Chi
+School -- M.I.T.
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 2
+Date -- 16
+Year -- 1981
+TShirt -- Medium
+user_email_address -- aletta@mit.edu
+
+First_Name -- Brian
+Last_Name -- Plankey
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 6
+Date -- 23
+Year -- 1976
+user_email_address -- plankey@hotmail.com
+
+First_Name -- Marisa
+Last_Name -- Kirschbaum
+Chapter -- Alpha Chi
+School -- MIT
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 5
+Date -- 8
+Year -- 1977
+TShirt -- Medium
+user_email_address -- marisa@mit.edu
+
+First_Name -- Chris
+Last_Name -- Hack
+Chapter -- Sigma Xi
+School -- University of Maine
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 10
+Date -- 31
+Year -- 1976
+user_email_address -- chris.hack@umit.maine.edu
+
+First_Name -- Jon
+Last_Name -- Doty
+Chapter -- Sigma Xi
+School -- University of Maine
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 8
+Date -- 12
+Year -- 1978
+user_email_address -- jonathan.doty@umit.maine.edu
+
+First_Name -- Josh 
+Last_Name -- Gray
+Chapter -- Sigma XI
+School -- University of Maine
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 6
+Date -- 24
+Year -- 1978
+user_email_address -- joshua.gray@umit.maine.edu
+
+First_Name -- Devi
+Last_Name -- Sengupta
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 10
+Date -- 2
+Year -- 1980
+user_email_address -- devaroti@hotmail.com
+
+First_Name -- Frances 
+Last_Name -- Devrow
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Vegetarian
+Brother_Status -- Pledge
+Month -- 9
+Date -- 20
+Year -- 1981
+user_email_address -- fafadevrow@hotmail.com
+
+First_Name -- Frances 
+Last_Name -- Devrow
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Vegetarian
+Brother_Status -- Pledge
+Month -- 9
+Date -- 20
+Year -- 1981
+TShirt -- Large
+user_email_address -- fafadevrow@hotmail.com
+
+First_Name -- Tom 
+Last_Name -- Vail
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 10
+Date -- 31
+Year -- 1977
+user_email_address -- T_Vail@hotmail.com
+
+First_Name -- Brian 
+Last_Name -- Plankey
+Chapter -- Kappa Omicron
+School -- Umass
+Brother_Status -- Active
+Month -- 6
+Date -- 23
+Year -- 1976
+user_email_address -- plankey@hotmail.com
+
+First_Name -- Rebecca
+Last_Name -- Weiner
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 6
+Date -- 14
+Year -- 1979
+TShirt -- Large
+user_email_address -- rmw79@yahoo.com
+
+First_Name -- Brian
+Last_Name -- Gomez
+Chapter -- Kappa Omicron
+School -- Umass
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 2
+Date -- 18
+Year -- 1977
+TShirt -- Large
+user_email_address -- BSGomes@student.umass.edu
+
+First_Name -- Melissa
+Last_Name -- Fenner
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 5
+Date -- 18
+Year -- 1979
+TShirt -- small
+user_email_address -- melfenna@wpi.edu
+
+First_Name -- Jeff 
+Last_Name -- Sinnamon
+Chapter -- Omicron Iota
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 6
+Date -- 3
+Year -- 1979
+LDW -- Yes
+TShirt -- X-Large
+user_email_address -- sinnamon@wpi.edu
+
+First_Name -- Joe
+Last_Name -- Chen
+Chapter -- Epsilon Sigma
+School -- SUNY at Buffalo
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 4
+Date -- 25
+Year -- 2000
+TShirt -- X-Large
+user_email_address -- jchen1@eng.buffalo.edu
+
+First_Name -- Joe
+Last_Name -- Chen
+Chapter -- Epsilon Sigma
+School -- SUNY at Buffalo
+Meal_Choice -- Regular
+Brother_Status -- Alumni
+Month -- 4
+Date -- 25
+Year -- 2000
+TShirt -- X-Large
+user_email_address -- jchen1@eng.buffalo.edu
+
+First_Name -- Mark
+Last_Name -- Fermann
+Chapter -- EZ
+School -- RPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 2
+Date -- 21
+Year -- 1976
+TShirt -- X-Large
+user_email_address -- fermam@rpi.edu
+
+First_Name -- Matt
+Last_Name -- Shaw
+Chapter -- OI
+School -- WPI
+Meal_Choice -- Regular
+Brother_Status -- Active
+Month -- 9
+Date -- 11
+Year -- 1978
+TShirt -- X-Large
+user_email_address -- shaw@wpi.edu
+
+First_Name -- Katie
+Last_Name -- Morwood
+Chapter -- Alpha Gamma Eta
+School -- University of Vermont 
+Meal_Choice -- Vegetarian
+Brother_Status -- Active
+Month -- 6
+Date -- 25
+Year -- 1978
+TShirt -- Large
+user_email_address -- kmorwood@zoo.uvm.edu
+
+First_Name -- Katrina
+Last_Name -- Call
+Chapter -- OZ
+School -- University of New Hampshire
+Meal_Choice -- Regular
+Brother_Status -- Pledge
+Month -- 11
+Date -- 16
+Year -- 1979
+LDW -- Yes
+TShirt -- Medium
+user_email_address -- kat_trina79@yahoo.com
+

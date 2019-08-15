@@ -1,0 +1,117 @@
+body
+{
+	background-color: #CECFCA;
+	background-repeat: no-repeat;
+}
+
+.navigation  a:link { 
+	color: #9871DF;
+	text-decoration: none;
+	}
+
+.navigation a:visited { 
+	color: #C17F7F;
+	text-decoration: none;
+
+	}
+.navigation a:hover { 
+	color: #2841D9;
+	text-decoration: underline overline;
+	}
+.navigation a:active { 
+	color: #333333;
+	text-decoration: none;
+
+	}
+
+.navigation ul { 
+	list-style-image: url('../DesignPics/trefoil.jpg') 
+}
+
+a:link{
+	color: #F70404;
+	text-decoration: none;
+}
+
+a:visited { 
+	color: #C17F7F;
+	text-decoration: none;
+
+	}
+
+.Title 
+{/*The navigation on the left side, positioned absolutely*/
+
+}
+
+.navigation 
+{/*The navigation on the left side, positioned absolutely*/
+    position: absolute;
+    top: 250px;
+    left: 2px;
+    width: 150px;
+    height: 300px;
+    background-image: url('../DesignPics/nav.jpg');
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    line-height : 175%;/*line-height set to 110% in order to separate better*/
+    background-repeat: no-repeat;
+
+}
+
+.about 
+{/*The navigation on the left side, positioned absolutely*/
+    position: absolute;
+    top: 75px;
+    left: 380px;
+    width: 280px;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+ .TextTitle{
+    font-size: large;
+    font-weight: bold;
+ }
+
+ .rushEvent a:link{
+	color: #6666CC;
+ }
+ 
+ .inhalt {/*this is the main content area*/
+    position: absolute;
+
+    left: 180px;
+    top: 40px;
+    width: 450px;
+  
+    font-family : Verdana, Eyechart, Geneva, Arial, Helvetica, sans-serif; 
+    } 
+ 
+ .serviceEvent a:link{
+	color: #CC00FF;
+ }
+ 
+ .fellowshipEvent a:link{
+	color: #009900;
+ }
+ 
+ .Foot {
+     
+    }
+
+table {
+  width: 800px;
+  table-layout: fixed;
+  border-left: 1px solid;
+  border-top: 1px solid;
+}
+
+td{
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+}
+
+th{
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+
+}

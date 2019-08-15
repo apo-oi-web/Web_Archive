@@ -1,0 +1,28 @@
+/* Hex for Royal Blue: 		#0033AB */
+/* Hex for Old Glory Gold: 	#F7B512 */
+/* Hex for Tardis Blue:		#003B6F */
+
+body
+{
+background-color	:	#003B6F;
+color			:	#F7B512;
+text-align		:	center;
+}
+
+a
+{
+color			:	#F7B512
+}
+
+hr
+{
+width			:	500px;
+}
+
+iframe
+{
+background-color	:	#F7B512;
+border			:	0px;
+width			:	500px;
+height			:	550px;
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	thumbFrameColor="rgba(250,180,29,.3)"
+	backgroundColor="rgba(23,58,121,1)"
+	textColor="rgba(250,180,29,1)"
+	galleryTitle="APO OI"
+
+>
+  <image imageURL="images/apophoto.jpg"
+	thumbURL="thumbs/apophoto.jpg"
+	linkURL="images/apophoto.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/apophoto.jpg">
+    <title><![CDATA[Freshmen Move-in]]></title>
+    <caption><![CDATA[Brothers helping freshmen move into their new residences.]]></caption>
+  </image>
+  <image imageURL="images/service5.jpg"
+	thumbURL="thumbs/service5.jpg"
+	linkURL="images/service5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/service5.jpg">
+    <title><![CDATA[Move-in Break]]></title>
+    <caption><![CDATA[Brothers taking a break from moving freshmen into their dorms.]]></caption>
+  </image>
+  <image imageURL="images/service1.jpg"
+	thumbURL="thumbs/service1.jpg"
+	linkURL="images/service1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/service1.jpg">
+    <title><![CDATA[Start on The Street.]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/service2.jpg"
+	thumbURL="thumbs/service2.jpg"
+	linkURL="images/service2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/service2.jpg">
+    <title><![CDATA[Apple Picking!]]></title>
+    <caption><![CDATA[Brothers picking apples at Brookfield Farm.]]></caption>
+  </image>
+  <image imageURL="images/service3.jpg"
+	thumbURL="thumbs/service3.jpg"
+	linkURL="images/service3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/service3.jpg">
+    <title><![CDATA[Extreme Makeover Home Edition]]></title>
+    <caption><![CDATA[Brothers doing service around the clock.]]></caption>
+  </image>
+  <image imageURL="images/service4.JPG"
+	thumbURL="thumbs/service4.JPG"
+	linkURL="images/service4.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/service4.JPG">
+    <title><![CDATA[Flag on the Quad]]></title>
+    <caption><![CDATA[Brothers reenacting a famous photo.]]></caption>
+  </image>
+  <image imageURL="images/recruitment1.jpg"
+	thumbURL="thumbs/recruitment1.jpg"
+	linkURL="images/recruitment1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/recruitment1.jpg">
+    <title><![CDATA[S12 Pledge Class]]></title>
+    <caption><![CDATA[Congratulations!]]></caption>
+  </image>
+  <image imageURL="images/recruitment2.jpg"
+	thumbURL="thumbs/recruitment2.jpg"
+	linkURL="images/recruitment2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/recruitment2.jpg">
+    <title><![CDATA[Ice Skating!]]></title>
+    <caption><![CDATA[Recruitment Fellowship.]]></caption>
+  </image>
+  <image imageURL="images/Spring2013pledgeclass.jpg"
+	thumbURL="thumbs/Spring2013pledgeclass.jpg"
+	linkURL="images/Spring2013pledgeclass.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/893505_4645484935458_906402738_o.jpg">
+    <title><![CDATA[S13 Pledge Class]]></title>
+    <caption><![CDATA[Congratulations!]]></caption>
+  </image>
+  <image imageURL="images/Spring2013pledgeclass2.jpg"
+	thumbURL="thumbs/Spring2013pledgeclass2.jpg"
+	linkURL="images/Spring2013pledgeclass2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/sebastian/Downloads/906165_337242373065985_152584780_o.jpg">
+    <title><![CDATA[S13 Pledge Class]]></title>
+    <caption><![CDATA[Congratulations!]]></caption>
+  </image>
+</juiceboxgallery>

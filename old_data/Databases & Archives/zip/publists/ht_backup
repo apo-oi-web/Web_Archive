@@ -1,0 +1,2 @@
+#Options +ExecGCI
+AddHandler cgi-script .py

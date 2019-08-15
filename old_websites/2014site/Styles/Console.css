@@ -1,0 +1,8 @@
+div.console {
+	position:absolute;
+	left:5px;
+	top:5px;
+	visibility:hidden;
+	background-color:#FFFFFF;
+}
+

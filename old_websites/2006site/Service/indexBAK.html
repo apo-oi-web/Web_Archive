@@ -1,0 +1,142 @@
+<html>
+
+<HEAD>
+  <TITLE>Alpha Phi Omega - Service Auction</TITLE>
+  <META name="description" content="Allows for the addition of services">
+  <META name="keywords" content="Service, Auction, Alpha Phi Omega">
+  <LINK rel="stylesheet" type="text/css" href="AuctionStyle.css" />
+
+  <SCRIPT LANGUAGE="JavaScript">
+  <!--
+  function validate(form) {
+    
+    var missingFields = "";
+    var incorrect = false;
+    var lowestMissingIndex = -1;
+
+    for(var i = 0; i <form.elements.length; i++)
+    {
+	var field = form.elements[i];
+
+	if(field.value == "")
+	{
+	   if(field.name != "Notes")
+	   {
+	   missingFields = missingFields + ", " + field.name;
+	   incorrect = true;
+	
+	   if(lowestMissingIndex < 0)
+	   {
+	      lowestMissingIndex = i;
+	   }
+	   }
+	}
+    }
+
+    if(incorrect)
+    {
+        alert("You must enter a value for " + missingFields);
+        setTimeout("form.elements["+lowestMissingIndex+"].focus()", 10);
+    }
+    else
+    {
+	var intValue = parseInt(form.Box.value)
+    
+        if (isNaN(intValue))
+	{
+	    alert("Box Number must be an integer");
+	    incorrect = true;
+	}
+	else
+	{
+	    intValue = parseInt(form.Hours.value);
+	    if (isNaN(intValue))
+	    {
+            	alert("Hours must be an integer");
+            	incorrect = true;
+            }
+
+	}
+    }
+    
+    return !incorrect;
+  }
+  // -->
+  </SCRIPT>
+</HEAD>
+
+<body>
+
+<div class = "header">
+   <img src="images/logorightblank.gif" width = "238" height = "74" align = right>
+   <div class = "logo" align=middle> <h1>Alpha Phi Omega</h1> </div> 
+   <div class = "auction"> Service Auction  </div>
+</div>
+
+<div class = "content">
+   <div class = "serviceText">
+   	<ul>
+	   <li>The Service Auction is Tuesday November 21st 6:30 pm in Forkey Commons</li>
+	   <br/>
+	   <li>You do not need to be present at the Auction to give a service</li>
+       	   <br/>
+	   <li>Payment for auction items you win are due on the night of the auction</li>
+	   <br/>
+	   <li>Services offered in previous years: </li>
+		<ul>
+		    <li> Making Food (cookies, brownies, dinner for 10)</li>
+		    <li> Tutoring </li>
+		    <li> A flight in a small plane </li>
+		    <li> Clean an apartment</li>
+		    <li> Teach lessons (guitar, volleyball, sewing) </li>
+		    <li> Make a craft (scarf, quilts)</li>
+		</ul>
+	</ul>
+   </div>
+
+   <div class = "serviceInfo">
+   <form method="post" onsubmit="return validate(this)" action="insertServiceBAK.cgi">
+	First Name: <input type="text" name="FirstName" maxlength=20 size=13/> 
+	Last Name: <input type="text" name = "LastName" maxlength=30 size=19/> <br/>
+
+	<br/>
+
+	Email: <input type="text" name = "Email" maxlength=20 size=15/> 
+	Box #: <input type="text" name = "Box" maxlength=4 size=4/>
+	Phone: <input type="text" name = "Phone" maxlength=12 size=12/> <br/>
+
+	<br/>
+
+	Service Name: <input type="text" name = "ServiceName" maxlength=75 size=47/> <br/>
+
+	<br/>
+
+	Number of Hours: <input type="text" name = "Hours" maxlength=3 size=3 /> <br/>
+  	
+	<br/>
+
+	Description: <br/> <textarea name = "Description" rows=5 cols=47 wrap="virtual"></textarea> <br/>
+
+	<br/>
+
+	Additional Notes: <br/> <textarea name = "Notes" rows=3 cols=47 wrap="virtual"></textarea><br/>
+
+	<br/>
+	<input type="submit" value="Submit Service"> <input type="reset" value="Reset Form">
+   </form>
+   </div>
+
+</div>
+
+<div class = "navigationTop">
+</div>
+
+<div class = "navigation">
+</div>
+
+<div class = footer>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,83 @@
+chapter -- --
+School -- --
+region -- 
+Section -- 
+FName -- Nancy
+LName -- Kinirons
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+
+chapter -- TEST
+School -- blah
+region -- blah
+Section -- balh
+FName -- dipshit
+LName -- Grossi
+regck -- Yes
+banck -- Yes
+cpw -- Yes
+brother -- Advisor
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- hl.rfsgjldfshjnadl.khnwrS.,HBJNERSKN
+
+chapter -- Test
+School -- Test
+region -- 1
+Section -- 96
+FName -- Joe 
+LName -- Hausmann
+regck -- Yes
+banck -- Yes
+ldw -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- I want someone to bown down and lick my feet for all the work we've put into this, and john brosnan gets a god damned medal for his work  =)
+
+p.s.- I see a submit button but no "check total" button at the bottom, and also see the massive amounts of e-mails I just fired off at you!  sorry  =)
+
+chapter -- Epsilon Gamma
+School -- Alfred
+region -- 2
+Section -- 89
+FName -- Nefertiti
+LName -- Smith
+regck -- Yes
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- II
+Section -- 88
+FName -- Mike Spreeeee
+LName -- Haber
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- 
+School -- 
+region -- 1  Frat. Comm. Chair
+Section -- 99  Secretary
+FName -- Alycia
+LName -- Bauch
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+

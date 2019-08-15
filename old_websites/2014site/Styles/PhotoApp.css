@@ -1,0 +1,115 @@
+a.photoTable img {
+	border: 1px;
+	border-style: solid;
+	color: #173a79;
+}
+
+a.photoTable:hover img {
+	border: 1px;
+	border-style: solid;
+	color: #fab41d;
+}
+
+td.photoTable {
+	border: 0px;
+	border-style: none;
+	border-color: #cccccc;
+	padding: 5px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+div.viewer {
+	position:absolute;
+	left: 5px;
+	top:5px;
+	visibility:hidden;
+	background-color:#08275E;
+}
+
+div.viewer div.previous {
+  visibility:hidden;
+  position:absolute;
+  z-index: 2;
+  left:5px;
+  top:50%;
+  filter:alpha(opacity=50);
+  -moz-opacity:0.5;
+  -khtml-opacity: 0.5;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+div.viewer div.next {
+  visibility:hidden;
+  position:absolute;
+  z-index:2;
+  top:50%;
+  filter:alpha(opacity=50);
+  -moz-opacity:0.5;
+  -khtml-opacity: 0.5;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.loadMore {
+color: #ffffff;
+font-family: garamond;
+font-size: 16pt;
+text-decoration: underline;
+font-weight: bold;
+}
+
+.loadMore:hover {
+cursor: pointer;
+color: #fab41d;
+font-family: garamond;
+text-decoration: underline;
+font-weight: bold;
+}
+
+a.close {
+	background-color:#ce0100;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #d83526;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	font-weight:bold;
+	padding:1px 5px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #b23e35;
+}.close:hover {
+	background-color:#fe1a00;
+	-moz-box-shadow: 0px 0px 5px 0px #f29c93;
+	-webkit-box-shadow: 0px 0px 5px 0px #f29c93;
+	box-shadow: 0px 0px 5px 0px #f29c93;
+}.close:active {
+	background-color:#ce0100;
+}
+
+a.center {
+	background-color:#d28c00;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #e6a009;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	font-weight:bold;
+	padding:1px 5px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #b23e35;
+}.center:hover {
+	background-color:#fab41d;
+	-moz-box-shadow: 0px 0px 5px 0px #f29c93;
+	-webkit-box-shadow: 0px 0px 5px 0px #f29c93;
+	box-shadow: 0px 0px 5px 0px #f29c93;
+}.center:active {
+	background-color:#d28c00;
+}

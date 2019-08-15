@@ -1,0 +1,56 @@
+if ($?prompt) then
+## General Settings
+setenv EDITOR		"/usr/local/bin/emacs -nw"
+setenv HOSTNAME		`echo $HOST | awk -F. '{print $1}'`
+setenv MAIL		/usr/spool/mail/$USER
+setenv NAME		"Alpha Phi Omega - Omicron Iota"
+setenv TERM		vt100
+setenv VISUAL		"/usr/local/bin/emacs -nw"
+
+## Unset autologout to prevent being logged out by the system
+unset autologout
+
+## Shell variables
+set autocorrect
+set autoexpand
+set autolist
+set correct	= cmd
+set history	= 100
+set mail	= (0 /usr/spool/mail/apo)
+set notify
+set noclobber
+set path	= ($HOME/bin `/usr/local/bin/syspath` /etc /usr/local/gnubin \
+		   /usr/etc/ .)
+#set prompt	= ">>>>>> %B%t%b >>>>>> %B%m%b >>>>>> %B%/%b\n%# "
+set prompt = "%L%b[%B%l%b:%B%m%b] [%B%@%b] [%B%/%b] > "
+#set who		= "[%t] %B%n%b %a %l from %m"
+#set who		= "%B>>>>> %p: %n has %a from %M <<<<<"
+
+## Set watch to specific people while on wpi or bigwpi or garden banach
+#if (($HOSTNAME == "wpi") || ($HOSTNAME == "bigwpi") || \
+#    ($HOSTNAME == "garden") || (CCC_source == "banach")) then
+# set watch=(0 any console `awk '($0!=""){printf "%s any ",$0}' $HOME/.friends`)
+# set watch=(0 any console `grep -v "@" $HOME/.friends |awk '($0!=""){printf "%s any ",$0}'`)
+#else
+# set watch=(0 any any)
+#endif
+
+## Aliases
+alias bros      'more ~apo/RecSec/brothers'
+alias bye	logout
+alias cp	gcp -ibv
+alias del	grm -i
+alias dir	ls -alF
+alias dir/w	ls -algF
+alias emacs	emacs -nw
+alias home	clear
+alias mtst	cmailtst
+alias mv	gmv -ibv
+alias pledges   'more ~apo/RecSec/pledges'
+alias process   'echo "USER       PID   COMMAND"; ps -auxww | cut -c1-16,50- | grep'
+alias q		quota
+alias rm	grm -i
+alias what	'echo "USER      SOURCE          LOGIN@    PROCESS"; w | cut -c1-9,12-35,54- | grep'
+alias where	'who | grep \!*'
+alias wp	whitepages
+endif

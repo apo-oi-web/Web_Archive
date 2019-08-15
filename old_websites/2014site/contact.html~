@@ -1,0 +1,75 @@
+<HTML>
+<head>
+<title> Contact Us </title>
+<link rel="stylesheet" type="text/css" href="Styles/APOstyle.css" />
+<script type="text/javascript" src="Javascript/functions.js"></script>
+</head>
+<body onload="setupRun();">
+
+<table align="center" class="container">
+
+<!--#include virtual="nav_links.inc" -->
+
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<!-- CONTENT GOES HERE -->
+
+<div class="header1"> Contact Information </div>
+<p style="text-align:center;">All email addresses are at wpi.edu</p>
+
+<!-- content goes below this note. Do not remove. This version of the website was created by Alyssa Graham webchair Fall 2011. It is advised to edit this using the Microsoft word edition, so that you may follow the color codes and only edit the text in black unless you are skilled with HTML/CSS. This template references a style sheet please take caution not to touch the style sheet as it is used for multiple pages, and changing it will affect them all. -->
+<center>
+<div class="header3"> President - Amber Desjardin</div>
+APO-president
+<p></p>
+<div class="header3"> Service Vice Presidents - Rachel Warden & Mike Day</div>
+APO-service 
+<p></p>
+<div class="header3"> Membership Vice President - Alyssa Graham</div>
+APO-membership
+<p></p>
+<div class="header3"> Fellowship Vice Presidents - Mike Delph & Petra Hartman</div>
+APO-fellowship
+<p></p>
+<div class="header3"> Pledge Trainers - Audrey Blasius & Steve Young</div>
+APO-pledgetrainer
+<p></p>
+<div class="header3"> Treasurer - Ryan Moran</div>
+APO-treasurer
+<p></p>
+<div class="header3"> Secretary - Collette Bora</div>
+APO-secretary
+<p></p>
+<div class="header3"> Historian - Autumn Paro</div>
+APO-historian
+<p></p>
+<div class="header3"> Public Relationship - Emily Miller</div>
+APO-pr
+<p></p>
+<div class="header3"> Sergeant At Arms - Keith Sullivan</div>
+APO-sergeantatarms
+<p></p>
+<div class="header3"> Advisor Liaison  - Erich Weltsek</div>
+APO-advisorliaison
+<p></p>
+</center>
+
+<!-- CONTENT STOPS HERE -->
+<br>
+
+<!--#include virtual="footer_links.inc" -->
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+
+

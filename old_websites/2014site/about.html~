@@ -1,0 +1,69 @@
+<HTML>
+<head>
+<title>About APO OI</title>
+<link rel="stylesheet" type="text/css" href="Styles/APOstyle.css" />
+<script type="text/javascript" src="Javascript/functions.js"></script>
+</head>
+<body onload="setupRun();">
+
+<table align="center" class="container">
+
+<!--#include virtual="nav_links.inc" -->
+
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<div class="header1"> About Alpha Phi Omega & The Omicron Iota Chapter</div>
+<br>
+<!--
+<div style="position:relative; text-align: center; border: 1px solid; border-color: #fab41d;">
+<div class="header4"> <u>Reminder</u> </div>
+If, in your visit to this website, you have any questions, concerns, or requests, please feel free to use the "Contact Webchair" link at the bottom of each page. Thank you, and welcome to Omicron Iota!
+</div>
+<br>
+-->
+<div class="header2">About Alpha Phi Omega</div>
+<p>
+<img src="img/img/photoalbum/APOCrestSmall.png" class="photo2"></img>
+Alpha Phi Omega is a national co-ed service fraternity with over 300
+active chapters nationwide. The fraternity was founded by Frank Reed
+Horton, who believed in the ideals of scouting. Every year, Alpha Phi
+Omega organizes a national week of service. The 2011 theme was
+improving nutrition and exercise, and the 2012 theme was fighting
+disease. The theme for 2013 is showing respect for self.  
+<br> <br>
+<b> Vision:</b> To be recognized as the premier service-based leadership development organization
+<br>
+<b>Mission:</b> Prepare campus and community leaders through service
+<br>
+<b>Values:</b> Develop leadership, promote friendship and provide service
+<br>
+<b>Objectives:</b> Share, Grow, Improve, and Invest
+</p>
+
+<div class="header2">About Omicron Iota </div>
+<p><img src="img/img/photoalbum/APO_group_shot.jpg" width= "350px"
+class="photo1"></img> Omicron Iota is Worcester Polytechnic
+Institute's Alpha Phi Omega chapter. We are a strong chapter of
+entusiastic and active brothers. We were founded on December 18, 1964,
+just 39 years after the founding of Alpha Phi Omega, and are part of
+Region 1 <a href="http://www.apo96.org/index.shtml"> Section 96.</a>
+<!-- Our chapter is the largest organization on campus, and w --!> We have a
+recruitment period two times every year in which we allow prospectives
+to try to pledge and become brothers. Our members are known as
+OI-sters, and we have a strong dedication to service, leadership, and
+brotherhood.
+</p>
+
+<!--#include virtual="footer_links.inc" -->
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

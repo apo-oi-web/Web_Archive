@@ -1,0 +1,11 @@
+#bigwpi.wpi.edu
+#/usr7/apo/RecSec/crontab
+00 5 * * * $HOME/bin/update_mail_lists
+
+#59 3 * * * /bin/date >> /usr7/apo/.mailstats
+#10 4 * * * /usr/local/bin/mailstat -l /usr7/apo/.mail >> /usr7/apo/.mailstats
+#58 3 * * * /bin/mv /usr7/apo/FTPSite/mailinglists/aposoc-l /usr7/apo/FTPSite/mailinglists/aposoc-l.yesterday
+#58 3 * * * /bin/mv /usr7/apo/FTPSite/mailinglists/apo-l /usr7/apo/FTPSite/mailinglists/apo-l.yesterday
+#56 3 * * * /bin/rm -f /usr7/apo/FTPSite/mailinglists/apo-l.yesterday
+#56 3 * * * /bin/rm -f /usr7/apo/FTPSite/mailinglists/aposoc-l.yesterday
+#5  * * * * /bin/chmod 0775 /usr7/apo/FTPSite/mailinglists/*

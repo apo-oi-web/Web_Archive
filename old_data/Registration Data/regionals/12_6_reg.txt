@@ -1,0 +1,52 @@
+chapter -- Staff
+School -- --
+region -- I
+Section -- 96
+FName -- Richard
+LName -- Quodomine
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- Just an overhead in the room I am presenting in.
+
+chapter -- Epsilon Zeta
+School -- Rensselaer Polytechnic Institute
+region -- 2
+Section -- 88
+FName -- Ed
+LName -- Pollack
+regck -- Yes
+banck -- Yes
+brother -- ActiveBrother
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- I'm registering late.
+
+chapter -- 
+School -- 
+region -- 1
+Section -- 94
+FName -- Jeff
+LName -- Carson
+regck -- Yes
+banck -- Yes
+brother -- Staff
+Submit2 -- Submit
+Meal -- Chicken
+SpecialInfo -- 
+
+chapter -- Epsilon Sigma
+School -- SUNY at Buffalo
+region -- II
+Section -- 89
+FName -- Michael
+LName -- Williams
+regck -- Yes
+banck -- Yes
+brother -- Alumni
+Submit2 -- Submit
+Meal -- Vegitarian
+SpecialInfo -- 
+

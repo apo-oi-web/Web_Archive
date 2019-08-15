@@ -1,0 +1,142 @@
+<HTML>
+
+<!-- This web site was designed and created by Alyssa Grahm in the fall of 2011. In the winter/spring of 2012, Colin Ogren cleaned up the code and some design issues. -->
+
+<head>
+<title>Badges - Merit Badge University</title>
+<link rel="stylesheet" type="text/css" href="MBUstyle.css" />
+<script type="text/javascript" src="functions.js"></script>
+</head>
+<body onload="setupRun();">
+
+<table align="center" class="container">
+<tr>
+
+<td style="width:1024px; height:180px; background: url(img/homepage.png) no-repeat 0 0;">
+<div class="links">
+<span class="headinglinks">
+<!-- LINKS GO HERE -->
+<a href="home.html">Home</a>
+&#8226;
+<a href="badges.html">Offered Badges</a>
+&#8226;
+<a href="registration.html">Registration</a>
+&#8226;
+<a href="directions.html">Directions</a>
+<!-- LINKS STOP HERE -->
+</span>
+</div>
+</td>
+
+</tr>
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<!-- CONTENT GOES HERE -->
+
+<div class="header1">Offered Merit Badges</div>
+<br>
+<center>
+
+<table style="border:2px solid #000000; padding:0px; border-collapse:collapse; border-spacing:0px; *border-collapse: expression('collapse', cellSpacing = '0px');">
+<tr>
+<td class="header4">9 AM - 11 AM</td>
+<td class="header4">12 PM - 2 PM</td>
+<td class="header4">2:10 PM - 4:10 PM</td>
+</tr>
+<tr>
+<td class="tbl">Robotics</td>
+<td class="tbl">Robotics</td>
+<td class="tbl">Robotics</td>
+</tr>
+<tr>
+<td class="tbl">Personal Management*</td>
+<td class="tbl">Space Exploration</td>
+<td class="tbl">Space Exploration</td>
+</tr>
+<tr>
+<td class="tbl">Inventing</td>
+<td class="tbl">Theater</td>
+<td class="tbl">Inventing</td>
+</tr>
+<tr>
+<td class="tbl">Emergency Preparedness</td>
+<td class="tbl">Environmental Science</td>
+<td class="tbl">Environmental Science</td>
+</tr>
+<tr>
+<td class="tbl">Engineering</td>
+<td class="tbl">Engineering</td>
+<td class="tbl">Art</td>
+</tr>
+<tr>
+<td class="tbl">Energy</td>
+<td class="tbl">First Aid</td>
+<td class="tbl">First Aid</td>
+</tr>
+<tr>
+<td class="tbl">Computers</td>
+<td class="tbl">Computers</td>
+<td class="tbl">Computers</td>
+</tr>
+<tr>
+<td class="tbl">Citizenship in the World</td>
+<td class="tbl">Citizenship in the Nation</td>
+<td class="tbl">Citizenship in the Community</td>
+</tr>
+<tr>
+<td class="tbl">Citizenship in the Nation</td>
+<td class="tbl">Citizenship in the Community</td>
+<td class="tbl">Citizenship in the World</td>
+</tr>
+<tr>
+<td class="tbl">Electronics**</td>
+<td class="tbl">Electronics**</td>
+<td class="tbl">Public Speaking</td>
+</tr>
+<tr>
+<td class="tbl">Chemistry</td>
+<td class="tbl">Communications</td>
+<td class="tbl">Communications</td>
+</tr>
+<tr>
+<td class="tbl">Climbing***</td>
+<td class="tbl">Astronomy</td>
+<td class="tbl">Programming****</td>
+</tr>
+<tr>
+<td class="tbl">Textiles</td>
+<td class="tbl">Pioneering</td>
+<td class="tbl">Music</td>
+</tr>
+<tr>
+</table>
+
+<p>*Scouts taking Personal Management merit badge must begin requirement #2 independently by Febuary 6th to complete the badge, otherwise a partial will be given.</p>
+
+<p>**It is <i><b>strongly</b></i> recommended that scouts taking Electronics merit badge have experience with high-school level algebra or an equivalent class.</p>
+
+<p>***Climbing will require an additional session at Rock Gym on May 17th.</p>
+
+<p>****Prior experience with computer programming strongly recommended.</p>
+</center>
+
+<!-- CONTENT STOPS HERE -->
+<br>
+<table class="disclaimer"><tr><td>
+<a href="disclaimer.html" class="adisclaimer">Disclaimer</a>
+&#8226;
+<a href="mailto:ptater@wpi.edu" id="Mail" class="adisclaimer">Contact</a>
+</td></tr></table>
+<br>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

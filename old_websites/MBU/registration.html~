@@ -1,0 +1,69 @@
+<HTML>
+
+<!-- This web site was designed and created by Alyssa Grahm in the fall of 2011. In the winter/spring of 2012, Colin Ogren cleaned up the code and some design issues. -->
+
+<head>
+<title>Registration - Merit Badge University</title>
+<link rel="stylesheet" type="text/css" href="MBUstyle.css" />
+<script type="text/javascript" src="functions.js"></script>
+</head>
+<body onload="setupRun();">
+
+<table align="center" class="container">
+<tr>
+
+<td style="width:1024px; height:180px; background: url(img/homepage.png) no-repeat 0 0;">
+<div class="links">
+<span class="headinglinks">
+<!-- LINKS GO HERE -->
+<a href="home.html">Home</a>
+&#8226;
+<a href="badges.html">Offered Badges</a>
+&#8226;
+<a href="registration.html">Registration</a>
+&#8226;
+<a href="directions.html">Directions</a>
+<!-- LINKS STOP HERE -->
+</span>
+</div>
+</td>
+
+</tr>
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<!-- CONTENT GOES HERE -->
+<center>
+<div class="header1">Registration</div>
+<!-- <p>Registration will open Tuesday, January 22nd.</p> -->
+<!-- <p>Registration will close Saturday, March 9th.</p> -->
+
+<!--<p>We have re-assessed our capabilities, and will be re-opening registration from now until the event. --> 
+    <p>Please use the following link to register:</p>
+<a href= http://www.wpi.edu/cgi-bin/wpireg/confreg.cgi?event_id=11&course_id=575>Registration Form</a>
+<!--<p>Registration is now closed</p>-->
+
+
+<!-- <p>Due to the overwhelming response from the scouting community, we have reached capacity for the event.  
+   Unfortunately we are not able to expand the program any further this spring and cannot admit any more 
+   scouts.  Thank you for your interest, and check back in December for information on next year’s program.</p> -->
+</center>
+<!-- CONTENT STOPS HERE -->
+<br>
+<table class="disclaimer"><tr><td>
+<a href="disclaimer.html" class="adisclaimer">Disclaimer</a>
+&#8226;
+<a href="mailto:ptater@wpi.edu" id="Mail" class="adisclaimer">Contact</a>
+</td></tr></table>
+<br>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

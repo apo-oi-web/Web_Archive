@@ -1,0 +1,118 @@
+body
+{
+	background-color: #FBF5F5;
+	background-image: url('DesignPics/tree3.jpg');
+	background-repeat: no-repeat;
+}
+
+.navigation  a:link { 
+	color: #9871DF;
+	text-decoration: none;
+	}
+
+.navigation a:visited { 
+	color: #C17F7F;
+	text-decoration: none;
+
+	}
+.navigation a:hover { 
+	color: #2841D9;
+	text-decoration: underline overline;
+	}
+.navigation a:active { 
+	color: #333333;
+	text-decoration: none;
+
+	}
+
+.navigation ul { 
+	list-style-image: url('DesignPics/trefoil.jpg') 
+}
+
+a:link{
+	color: #F70404;
+	text-decoration: none;
+}
+
+a:visited { 
+	color: #C17F7F;
+	text-decoration: none;
+
+	}
+
+.navigation 
+{/*The navigation on the left side, positioned absolutely*/
+    position: absolute;
+    top: 320px;
+    left: 2px;
+    width: 150px;
+    height: 300px;
+    background-image: url('DesignPics/nav2.jpg');
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    line-height : 175%;/*line-height set to 110% in order to separate better*/
+    background-repeat: no-repeat;
+
+}
+
+.about 
+{/*The navigation on the left side, positioned absolutely*/
+    position: absolute;
+    top: 75px;
+    left: 380px;
+    width: 280px;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.pledgePin 
+{/*The navigation on the left side, positioned absolutely*/
+    position: absolute;
+    top: 490px;
+    left: 325px;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.inhalt {/*this is the main content area*/
+    color: #2841D9;/*to insure readability*/
+    position: absolute;
+
+    left: 180px;
+    top: 280px;
+    width: 450px;
+    height: 400px;
+
+    padding: 10px;
+
+    font-family : Verdana, Eyechart, Geneva, Arial, Helvetica, sans-serif; 
+    
+    line-height : 125%;
+   
+    }
+ 
+ .TextTitle{
+    font-size: large;
+    font-weight: bold;
+ }
+
+ .rushEvent{
+	color: #6666CC;
+ }
+ 
+ .serviceEvent{
+	color: #CC3333;
+ }
+ 
+ .fellowshipEvent{
+	color: #66CC66;
+ }
+
+ .Foot {
+   /* position: absolute;
+    top: 425px;
+    left: 833px;
+    width: 150px;*/
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    line-height : 110%;/*line-height set to 110% in order to separate better*/
+    font-size: 60%;
+ }

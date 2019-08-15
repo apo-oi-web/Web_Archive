@@ -1,0 +1,123 @@
+From MAILER-DAEMON Fri Mar 16 14:38:22 2007
+Date: 16 Mar 2007 14:38:22 -0400
+From: Mail System Internal Data <MAILER-DAEMON@WPI.EDU>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1174070302@WPI.EDU>
+X-IMAP: 0942761731 0000000004
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From aej@WPI.EDU Fri Oct  8 13:20:07 1999
+Return-Path: <aej@WPI.EDU>
+Received: from arachne.WPI.EDU (root@arachne.WPI.EDU [130.215.25.52])
+	by smtp.WPI.EDU (8.10.0.Beta2/8.10.0.Beta2) with ESMTP id d98HK7J15195
+	for <apo@smtp.WPI.EDU>; Fri, 8 Oct 1999 13:20:07 -0400 (EDT)
+Received: (from root@localhost)
+	by arachne.WPI.EDU (8.10.0.Beta2/8.10.0.Beta2) id d98HGj309714
+	for apo; Fri, 8 Oct 1999 13:16:45 -0400 (EDT)
+Date: Fri, 8 Oct 1999 13:16:45 -0400 (EDT)
+Message-Id: <199910081716.d98HGj309714@arachne.WPI.EDU>
+From: helpdesk@WPI.EDU
+To: apo@WPI.EDU
+Subject: apo Group
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 1
+
+You are the sole member of the group apo.
+
+If you are no longer using this group, please remove the group.
+
+o Having fewer groups increases system performance.
+o There are a fixed number of groups, if your are locking up a group
+  which is not shared, you may be denying service to others at WPI.
+
+If you choose to delete a group, here is an example of how it is done:
+
+> gred
+You are a member of group wheel
+You are a member of group news
+You are a member of group staff
+You own group gshapiro
+You are a member of group tex
+gred> /gshapiro
+Selecting existing group.
+gred> r
+
+Remember that you should change the group of any files that remain or
+the next person to acquire this group number will have group access to
+those files.
+
+To return files to your private, unshared group, use the reclaim
+command.
+
+Think about this before issuing the 'quit' command
+Group gshapiro selected.
+gred> q
+The changes you have made are:
+
+deleted group(441): gshapiro
+owner: gshapiro
+
+Are you sure? y
+
+From aej@WPI.EDU Fri Oct  8 13:20:20 1999
+Return-Path: <aej@WPI.EDU>
+Received: from arachne.WPI.EDU (root@arachne.WPI.EDU [130.215.25.52])
+	by smtp.WPI.EDU (8.10.0.Beta2/8.10.0.Beta2) with ESMTP id d98HKKJ13062
+	for <apo@smtp.WPI.EDU>; Fri, 8 Oct 1999 13:20:20 -0400 (EDT)
+Received: (from root@localhost)
+	by arachne.WPI.EDU (8.10.0.Beta2/8.10.0.Beta2) id d98HGiY00198
+	for apo; Fri, 8 Oct 1999 13:16:44 -0400 (EDT)
+Date: Fri, 8 Oct 1999 13:16:44 -0400 (EDT)
+Message-Id: <199910081716.d98HGiY00198@arachne.WPI.EDU>
+From: helpdesk@WPI.EDU
+To: apo@WPI.EDU
+Subject: officers Group
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 2
+
+You are the sole member of the group officers.
+
+If you are no longer using this group, please remove the group.
+
+o Having fewer groups increases system performance.
+o There are a fixed number of groups, if your are locking up a group
+  which is not shared, you may be denying service to others at WPI.
+
+If you choose to delete a group, here is an example of how it is done:
+
+> gred
+You are a member of group wheel
+You are a member of group news
+You are a member of group staff
+You own group gshapiro
+You are a member of group tex
+gred> /gshapiro
+Selecting existing group.
+gred> r
+
+Remember that you should change the group of any files that remain or
+the next person to acquire this group number will have group access to
+those files.
+
+To return files to your private, unshared group, use the reclaim
+command.
+
+Think about this before issuing the 'quit' command
+Group gshapiro selected.
+gred> q
+The changes you have made are:
+
+deleted group(441): gshapiro
+owner: gshapiro
+
+Are you sure? y
+

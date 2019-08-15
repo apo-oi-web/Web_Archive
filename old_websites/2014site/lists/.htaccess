@@ -1,0 +1,6 @@
+PubcookieAppID "TILT Admin"
+AuthType EGNetID
+require user apo sebastian adparo elmayor djlocke aeshea cmbora bdiniz kstonkevitch aeleiro dfscott rmmoran jbmorse megagnon sjellison tdlaovoravit rmdailey
+
+#Options +ExecGCI
+AddHandler cgi-script .py

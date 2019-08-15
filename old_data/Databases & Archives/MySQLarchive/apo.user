@@ -1,0 +1,4 @@
+insert into db_user values ('apo','apo','apo','y');
+insert into db_history values ('2001-01-22 11:22:40','apo','apo','apo','create','APO Calendar/Brother List');
+insert into mysql.db values ('%','apo','apo','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','Y','','');
+insert into mysql.user values ('%','apo','23450f6c5f2d58ef','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','N','Y','Y','Y','Y','Y','N','Y','','','','',0,0,0,0);

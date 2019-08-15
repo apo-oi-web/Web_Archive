@@ -1,0 +1,83 @@
+<HTML>
+
+<!-- This web site was designed and created by Alyssa Grahm in the fall of 2011. In the winter/spring of 2012, Colin Ogren cleaned up the code and some design issues. -->
+
+<head>
+<title>Template</title>
+<link rel="stylesheet" type="text/css" href="Styles/APOstyle.css" />
+<script type="text/javascript" src="Javascript/functions.js"></script>
+</head>
+<body onload="setupRun();">
+
+<table align="center" class="container">
+<tr>
+
+<td style="width:1024px; height:180px; background: url(img/homepage.jpg) no-repeat 0 0;">
+<div class="links">
+<span class="headinglinks">
+<!-- LINKS GO HERE -->
+<a href="index.html">Home</a>
+&#8226;
+<a href="service.html">Service</a>
+&#8226;
+<a href="recruitment.html">Recruitment</a>
+&#8226;
+<a href="files.html"> Files </a>
+&#8226;
+<a href="calendar.html">Calendar</a>
+&#8226;
+<a href="photos.html">Photos</a>
+<!-- LINKS STOP HERE -->
+</span>
+</div>
+</td>
+
+</tr>
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<!-- CONTENT GOES HERE -->
+
+<div class="header1">Congratulations!</div>
+
+<div class="header1">This is what header1 looks like.</div>
+<br>
+<div class="header2">This is what header2 looks like.</div>
+<br>
+<div class="header3">This is what header3 looks like.</div>
+<br>
+<div class="header4">This is what header4 looks like.</div>
+<p>
+Normal text looks like this!!!!
+</p>
+<a href="#">This is what links look like.</a>
+
+<br>
+
+<!-- CONTENT STOPS HERE -->
+<br>
+<table class="disclaimer"><tr><td>
+<a href="directory.html" class="adisclaimer">Directory</a>
+&#8226;
+<a href="disclaimer.html" class="adisclaimer">National Disclaimer</a>
+&#8226;
+<a href="tos.html" class="adisclaimer">Terms of Service</a>
+&#8226;
+<a href="privacy.html" class="adisclaimer">Privacy Policy</a>
+&#8226;
+<a href="#" id="webchairMail" class="adisclaimer">Contact Webchair</a>
+&#8226;
+<a href="contact.html" class="adisclaimer">Contact OI</a>
+</td></tr></table>
+<br>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

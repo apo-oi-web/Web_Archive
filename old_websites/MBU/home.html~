@@ -1,0 +1,66 @@
+<HTML>
+
+<!-- This web site was designed and created by Alyssa Grahm in the fall of 2011. In the winter/spring of 2012, Colin Ogren cleaned up the code and some design issues. -->
+
+<head>
+<title>Home - Merit Badge University</title>
+<link rel="stylesheet" type="text/css" href="MBUstyle.css" />
+<script type="text/javascript" src="functions.js"></script>
+</head>
+<body onload="setupRun();">
+
+<table align="center" class="container">
+<tr>
+
+<td style="width:1024px; height:180px; background: url(img/homepage.png) no-repeat 0 0;">
+<div class="links">
+<span class="headinglinks">
+<!-- LINKS GO HERE -->
+<a href="home.html">Home</a>
+&#8226;
+<a href="badges.html">Offered Badges</a>
+&#8226;
+<a href="registration.html">Registration</a>
+&#8226;
+<a href="directions.html">Directions</a>
+<!-- LINKS STOP HERE -->
+</span>
+</div>
+</td>
+
+</tr>
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<!-- CONTENT GOES HERE -->
+
+<div class="header1">Merit Badge University</div>
+<p>
+This year’s Merit Badge University will be 9 am to 4:10 pm April 5th and April 19th 2014. It will be held at Worcester Polytechnic Institute.  Check in will be 8 am to 9 am April 5th in the Salisbury Laboratory lounge.
+</p>
+<p>
+Every Scout will be able to attend 3 merit badge classes and lunch is included. The merit badge classes will run 9 am to 11 am, 12 pm to 2 pm, 2:10 pm to 4:10 pm. Lunch will be 11 am to 12 pm. The cost will be $15 per scout.
+</p>
+<p>
+Feel free to contact me, William McCarthy, at <a href="mailto:wcmccarthy@wpi.edu" id="Mail" class="adisclaimer">wcmccarthy@wpi.edu</a>
+</p>
+
+<!-- CONTENT STOPS HERE -->
+<br>
+<table class="disclaimer"><tr><td>
+<a href="disclaimer.html" class="adisclaimer">Disclaimer</a>
+&#8226;
+<a href="mailto:wcmccarthy@wpi.edu" id="Mail" class="adisclaimer">Contact</a>
+</td></tr></table>
+<br>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

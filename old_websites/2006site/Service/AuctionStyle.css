@@ -1,0 +1,67 @@
+body
+{
+        background-color: #FFFFFF;
+        background-repeat: no-repeat;
+}
+
+.header {
+	width: "100%";
+	height: 74px;
+	margin-right: 0px;
+	margin-left: auto;
+	background-repeat: repeat-x;
+	background-image: url('images/topbkg.gif');
+	}
+
+.navigationTop {
+	width: 170px;
+	height: 26px;
+	margin-right: 0px;
+	margin-left: auto;
+	background-image: url('images/middleright.gif');
+	}
+
+.navigation {
+        width: 150px;
+        height: 550px;
+        margin-right: 0px;
+        margin-left: auto;
+	background-repeat: repeat-y;
+        background-image: url('images/rightsidebkg.gif');
+        }
+
+.logo {
+	text-align: right;
+ 	color: white;
+	vertical-align: middle;
+	line-height: 60px; 
+      }
+
+.auction {
+	position: absolute;
+	top:80px;
+	left: 500px;
+	text-align: right;
+        color: white;
+        vertical-align: middle;
+        line-height: 10px;
+	}
+
+.content {
+	position: absolute;
+	top: 100;
+	left: 10;
+	}
+
+.serviceInfo {
+	position: absolute;
+	left: 290;
+	top: 10;
+	}
+
+.serviceText{
+	position: absolute;
+	top:0;
+	left:0;
+	width:265;
+	}

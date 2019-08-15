@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html> <head> <title> Alpha Phi Omega </title> <script type="text/JavaScript"><!--
+function validate(theform){
+for (var i=0; i<theform.elements.length; i++){
+var field = theform.elements[i];
+if (field.type == "radio"){
+var Sindex = i;
+var checked = 0;
+var rLength=1;
+while(field.type == theform.elements[i+1].type && field.name == theform.elements[i+1].name){
+rLength++;
+i++;
+}
+for(var g = Sindex; g < rLength+Sindex; g++){
+if(theform.elements[g].checked){
+checked++;
+break;
+}
+}
+if(checked == 0){
+i=Sindex;
+alert("Please select a value for the "+field.name+ "");
+setTimeout("theform.elements["+i+"].focus()", 10);
+return false;
+}
+}
+else{
+if (field.value == ""){alert("You must enter a value for the "+field.name+ "");
+setTimeout("theform.elements["+i+"].focus()", 10);
+return false;
+}
+}
+}
+return true;}//-->
+</script><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/><link rel="stylesheet" type="text/css" href="myStyle.css" /><style type =" text/css">h1 {text-align: center;font-weight: bold;}</style></head><body><p><img src="./DesignPics/goss.gif" id="Goss" align = top /><img src="./DesignPics/apo2.gif" id="AlphaPhiOmega" align = topalt =" Alpha Phi Omega" /></p><table align = left align = top width = 1000 border = 0 >
+  	<tr>
+  	  	<td width=200 align = top >
+  	  			<a href="http://users.wpi.edu/~ajamin/APO/rush.cgi"><img src="./DesignPics/Rush.gif" align = top border="0" /></a></br>
+  	  			&nbsp;</br>
+
+  	  			<a href="http://users.wpi.edu/~ajamin/APO/service.cgi"><img src="./DesignPics/Link2.gif" align = top border="0" /></a></br>
+  	  			&nbsp;</br>
+  	  			<a href="http://users.wpi.edu/~ajamin/APO/fellowship.cgi"><img src="./DesignPics/Fellow.gif" align = top border="0" /></a></br>
+  	  			&nbsp;</br>
+  	  			<a href="http://users.wpi.edu/~ajamin/APO/login.cgi"><img src="./DesignPics/Brothers.gif" align = top border="0" /></a></br>
+  	  			&nbsp;</br>
+  	  			<a href="http://users.wpi.edu/~ajamin/APO/pledgeLogin.cgi"><img src="./DesignPics/Pledges.gif" align = top border="0" /></a></br>
+		</td>
+
+  	  	<td width=800 >
+  	  			<p> Thank you! Your nomination was successful. </p>
+  	  	</td>
+  	</tr>
+
+  </table><br/></p></body> </html>

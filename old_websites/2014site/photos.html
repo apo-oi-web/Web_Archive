@@ -1,0 +1,47 @@
+<HTML>
+<head>
+<title>Photos</title>
+
+<link rel="stylesheet" type="text/css" href="Styles/APOstyle.css" />
+<link rel="stylesheet" type="text/css" href="Styles/PhotoApp.css" />
+<link rel="stylesheet" type="text/css" href="Styles/Console.css" />
+<script type="text/javascript" src="Javascript/Console.js"></script>
+<script type="text/javascript" src="Javascript/PhotoApp.js"></script>
+<script type="text/javascript" src="Javascript/functions.js"></script>
+<script type="text/javascript" src="jbcore/juicebox.js"></script>
+
+</head>
+<body onload="setupRun();init();photoInit();">
+<div id="fb-root"></div>
+<table align="center" class="container">
+
+<!--#include virtual="nav_links.inc" -->
+
+<tr>
+<td>
+
+<div class="tbl1" id="contentPane">
+
+<!-- CONTENT GOES HERE -->
+
+<div class="header1">APO Picture Gallery!</div>
+
+
+<!--START JUICEBOX EMBED--><script src="jbcore/juicebox.js"></script><script>new juicebox({containerId : "juicebox-container",galleryWidth: "100%",galleryHeight: "65%%",backgroundColor: "rgba(8,39,94,1)"});</script><div id="juicebox-container"></div><!--END JUICEBOX EMBED-->
+
+<!-- CONTENT STOPS HERE -->
+<br>
+
+<p>More pictures can be found at our <a href="http://picasaweb.google.com/Alpha.Phi.Omega.OI">Picasa Album</a></p>
+<br/>
+
+<!--#include virtual="footer_links.inc" -->
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

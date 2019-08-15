@@ -1,0 +1,281 @@
+# MySQL dump 7.1
+#
+# Host: bert.wpi.edu    Database: apo
+#--------------------------------------------------------
+# Server version	3.22.32
+
+#
+# Table structure for table 'brothers'
+#
+CREATE TABLE brothers (
+  id int(11) DEFAULT '0' NOT NULL auto_increment,
+  first varchar(64) DEFAULT '' NOT NULL,
+  last varchar(64) DEFAULT '' NOT NULL,
+  email varchar(64) DEFAULT '' NOT NULL,
+  phone varchar(64) DEFAULT '' NOT NULL,
+  box smallint(6) DEFAULT '0' NOT NULL,
+  yog smallint(6) DEFAULT '0' NOT NULL,
+  birthday date DEFAULT '0000-00-00' NOT NULL,
+  wpi_addr varchar(64) DEFAULT '' NOT NULL,
+  street varchar(64) DEFAULT '' NOT NULL,
+  city varchar(64) DEFAULT '' NOT NULL,
+  state varchar(64) DEFAULT '' NOT NULL,
+  zip varchar(10) DEFAULT '' NOT NULL,
+  status enum('Active','Advisor','Inactive','Alumni') DEFAULT 'Active' NOT NULL,
+  PRIMARY KEY (id)
+);
+
+#
+# Dumping data for table 'brothers'
+#
+
+INSERT INTO brothers VALUES (1,'Allyson','Barford','abarford@wpi.edu','757-2195',3097,2003,'1981-10-11','15 Elbridge Street','8 Hampshire Court','Essex Jct.','VT','05452','Active');
+INSERT INTO brothers VALUES (2,'Johanna','Barlow','barlow@wpi.edu','795-1631',3134,2003,'1981-05-12','19 Dover Street #1','20 Byron Place','Hicksville','NY','11801','Active');
+INSERT INTO brothers VALUES (3,'Naomi','Boatright','nboat@wpi.edu','795-1631',709,2003,'1981-04-05','19 Dover Street #1','1496 Myrtle Avenue','Coos Bay','OR','97420','Active');
+INSERT INTO brothers VALUES (4,'Alex','Borrelli','apb@wpi.edu','831-6183',2138,2001,'1979-08-29','FH 303','','','','','Active');
+INSERT INTO brothers VALUES (5,'Katie','Bouffard','katie@wpi.edu','508-725-7777',2227,2002,'1980-02-25','Founders 206','','','','','Active');
+INSERT INTO brothers VALUES (6,'Fred','Cassellius','joat@wpi.edu','831-6240',2241,2001,'1979-02-10','Institute 310','6 Kieth Street','Norwalk','CT','06854','Active');
+INSERT INTO brothers VALUES (7,'Jimmy','Cook','jccook@wpi.edu','754-9752',3092,2001,'1979-01-12','11 Dean St.','11056 Ferguson Road','Dallas','TX','75228','Active');
+INSERT INTO brothers VALUES (8,'Matt','Crawford','corvi@wpi.edu','757-2608',1530,2001,'1978-11-22','92 West Street','','','','','Active');
+INSERT INTO brothers VALUES (9,'Kerri','Dagesse','kdagesse@wpi.edu','',0,0,'0000-00-00','','','','','','Active');
+INSERT INTO brothers VALUES (10,'James','Deloge','jdeloge@wpi.edu','831-6456',1254,2002,'1979-01-09','Founders 407','30 Wilson Avenue','Concord','NH','03301','Active');
+INSERT INTO brothers VALUES (11,'Laura','Domey','ladomey@wpi.edu','799-2242',1534,2001,'1979-02-27','185 Highland Street #2','2 Kimberly Court','Chelmsford','MA','01824','Active');
+INSERT INTO brothers VALUES (12,'Timothy Michael','Dresser','tdresser@wpi.edu','476-3549',1516,2001,'1979-10-29','446 Putnam Hill Rd Manchaug','','','','','Active');
+INSERT INTO brothers VALUES (13,'Brian','Faull','h2ofaull@wpi.edu','757-3419',2497,2001,'1979-08-15','142 West St. Apt. 3','','','','','Active');
+INSERT INTO brothers VALUES (14,'Melissa','Fenner','melfenna@wpi.edu','317-6384',773,2001,'1979-05-19','22 Lancaster Street #3','8 Stetson Circle','Walpole','MA','02081','Active');
+INSERT INTO brothers VALUES (15,'Sue','Foss','foss@wpi.edu','',0,0,'1978-08-17','','','','','','Active');
+INSERT INTO brothers VALUES (16,'Katie','Gagnon','katiah@wpi.edu','799-2242',1208,2000,'1979-12-04','148 West St. Apt. 2','','','','','Active');
+INSERT INTO brothers VALUES (17,'Michael','Gorse','mgorse@wpi.edu','831-6644',1122,2001,'1979-12-06','','22 Hirsch Terrace','Dedham','MA','02026','Active');
+INSERT INTO brothers VALUES (18,'Matthew William','Grabowski','mattg@wpi.edu','831-6686',438,2001,'1977-11-18','16 Elbridge Street','64 Breckenridge Street','Palmer','MA','01069','Active');
+INSERT INTO brothers VALUES (19,'Jennifer','Hardy','jehardy@wpi.edu','421-4736',1436,2001,'1979-08-09','17 Elbridge St. Apt 2','7 Roaen Drive','North Chelmsford','MA','01863','Active');
+INSERT INTO brothers VALUES (20,'Jen','Headman','headman@wpi.edu','756-9411',2745,2001,'1979-10-26','15 Dover St Apt 2','19 Hidden Hollow Lane','Sicklerville','NJ','08081','Active');
+INSERT INTO brothers VALUES (21,'Matt','Hilt','matthilt@wpi.edu','831-6466',811,2002,'1980-03-01','Ellsworth 14C','?','?','?','?','Active');
+INSERT INTO brothers VALUES (22,'Timothy Patrick','Hogan','sage@wpi.edu','363-4876',1401,2001,'1978-04-21','8 Dix Street #1','17 Robin Road','?','?','?','Active');
+INSERT INTO brothers VALUES (23,'Estelle','Houde','ehoude@wpi.edu','421-4708',2800,2002,'1980-08-23','59 Dover St #3','76 West Street','Biddeford','ME','04005','Active');
+INSERT INTO brothers VALUES (24,'Sally','House','sallyh@wpi.edu','793-9595',3095,2001,'1978-01-02','83 Park Avenue #8','83 Park Avenue #8','Worcester','MA','01609','Active');
+INSERT INTO brothers VALUES (25,'Jason Charles','Hudson','hudrock@wpi.edu','831-6811',2113,2001,'1979-06-18','26 Hackfeld Rm. 1','','','','','Active');
+INSERT INTO brothers VALUES (26,'Alison','Hughes','ahughes@wpi.edu','791-2653',2962,2002,'1980-01-25','139 Highland Street #7','39 Meadow Road','Newfields','NH','03856','Active');
+INSERT INTO brothers VALUES (27,'George C.','Huntington III','gchiii@wpi.edu','831-6579',1296,2001,'1977-11-18','Founders 107C','','','','','Active');
+INSERT INTO brothers VALUES (28,'Dan','Jacques','danjacq@wpi.edu','579-9060',712,2001,'1978-11-28','Morgan 4th','4 Rawson Place','Shrewsbury','MA','01545','Active');
+INSERT INTO brothers VALUES (29,'Ray','Kelley','rdkelley@wpi.edu','',2034,0,'0000-00-00','','','','','','Active');
+INSERT INTO brothers VALUES (30,'Ali Durlov','Khan','adkhan@wpi.edu','363-4780',3280,2001,'0000-00-00','20 Bowdoin Street, Apt#1','','','','','Active');
+INSERT INTO brothers VALUES (31,'Alex','Knapp','jaknapp@wpi.edu','754-2410',3131,2001,'0000-00-00','55 Dover Street #1','14812 S. Arapaho','Olathe','KS','66062','Active');
+INSERT INTO brothers VALUES (32,'Austin','Kotlus','akotlus@wpi.edu','752-5714',1059,2002,'1980-05-31','63 Wachusett St.','','','','','Active');
+INSERT INTO brothers VALUES (33,'Kristin','Lafond','lafondk@wpi.edu','401-374-4102',1680,2003,'0000-00-00','21 Elbridge Street #3','255 Escoheag Hill Road','Exeter','RI','02822','Active');
+INSERT INTO brothers VALUES (34,'Kevin','Lee','kvlee@wpi.edu','791-2154',2992,2002,'1980-12-11','18 Hampden Street','20 Versailles Street','Cranston','RI','02920','Active');
+INSERT INTO brothers VALUES (35,'Tom','Livak','tomlivak@wpi.edu','',0,0,'0000-00-00','','','','','','Active');
+INSERT INTO brothers VALUES (36,'Daniel','Lopes','dslopes@wpi.edu','831-6934',1548,0,'1979-05-14','Morgan 236','','','','','Active');
+INSERT INTO brothers VALUES (37,'Kate','Manning','kmanning@wpi.edu','799-2242',2714,2002,'1980-04-29','185 Highland Street','','','','','Active');
+INSERT INTO brothers VALUES (38,'Amy Page','Matter','apage@wpi.edu','756-1329',3152,2001,'1979-03-15','57 John Street #2','','','','','Active');
+INSERT INTO brothers VALUES (39,'Maureen','McDonnell','mmcd@wpi.edu','831-6587',2987,2003,'1981-07-16','Founders 209D','244 Hillside Avenue','Holyoke','MA','01040','Active');
+INSERT INTO brothers VALUES (40,'Stephen','Millet','smillet@wpi.edu','873-0780',1308,2002,'1979-06-15','9 Dean St.','205 Ruggles Street','Westborough','MA','01581','Active');
+INSERT INTO brothers VALUES (41,'Nick','Nassar','nassar@wpi.edu','831-6194',121,2003,'1981-05-03','E-3','RR 5 Box 5255 Garland Rd','Winslow','ME','04901','Active');
+INSERT INTO brothers VALUES (42,'Jonathan','Oexner','joexner@wpi.edu','831-6415',2139,2001,'1979-06-10','E7A','','','','','Active');
+INSERT INTO brothers VALUES (43,'Andrew','Oleson','aoleson@wpi.edu','831-1198',2530,0,'1980-02-20','28 Lancaster St. #1R','','','','','Active');
+INSERT INTO brothers VALUES (44,'Kurt','Onofrey','quizant@wpi.edu','-7521672',3345,200,'1980-03-20','62 Bowdoin St. #2F','153 Colebourne Road','Rochester','NY','14609','Active');
+INSERT INTO brothers VALUES (45,'Josh','Parks','jparks@wpi.edu','890-8784',2699,2001,'1979-04-18','34 Wachusett St. #3','','','','','Active');
+INSERT INTO brothers VALUES (46,'Laura','Paul','lpaul913@wpi.edu','791-4965',1086,2002,'1980-09-13','26 Elbridge #2','279 Voorhees Road','West Monroe','NY','13167','Active');
+INSERT INTO brothers VALUES (47,'Christian Eugene','Pedersen','cep01@wpi.edu','757-1329',2218,2001,'1979-02-09','57 John Street #2','10A Chesbro Bridge Road','Columbia','CT','06237','Active');
+INSERT INTO brothers VALUES (48,'Maxwell','Pistilli','pistilli@wpi.edu','363-4876',2777,2001,'1979-04-30','8 Dix Street #1','538 East Locust Avenue','Philadelphia','PA','19144','Active');
+INSERT INTO brothers VALUES (49,'Jami Lynn','Ricard','jami@wpi.edu','831-5166',853,2001,'1979-01-13','Morgan 231','','','','','Active');
+INSERT INTO brothers VALUES (50,'Mikal','Rosendahl','mykal@wpi.edu','831-6480',805,2002,'1980-01-31','Ellsworth 15A','','','','','Active');
+INSERT INTO brothers VALUES (51,'Jen','Scheipers','jen_s@wpi.edu','831-6388',2888,2003,'0000-00-00','Ellsworth 9','80 Green Road','Bolton','MA','01740','Active');
+INSERT INTO brothers VALUES (52,'Nina','Simon','nsimon@wpi.edu','363-2375',718,2003,'0000-00-00','149 Highland Street #2','3482 La Sombra Drive','Los Angeles','CA','90068','Active');
+INSERT INTO brothers VALUES (53,'Erin','Sullivan','esulli@wpi.edu','363-2375',488,2002,'1980-05-13','148 Highland #2','521 Franklin Road','Fitchburg','MA','01420','Active');
+INSERT INTO brothers VALUES (54,'Johanna','Tenczar','jtenczar@wpi.edu','754-1858',2575,2001,'1980-09-15','25 Hackfeld Road','15 Crystal Lane','Latham','NY','12110','Active');
+INSERT INTO brothers VALUES (55,'Joel','Thibault','joelt@wpi.edu','754-0931',182,2001,'1979-07-24','83 Elm Street #3','31 Davis Road','Merrimack','NH','03054','Active');
+INSERT INTO brothers VALUES (56,'Kathryn Rose','Thorsen','katiet@wpi.edu','831-5156',2691,2001,'1978-03-05','Riley 417','99 Clinton Street','Marlborough','MA','01752','Active');
+INSERT INTO brothers VALUES (57,'Sarah','Tressel','stressel@wpi.edu','831-6482',2579,2003,'1981-05-15','Ellsworth 11','15 Country Farm Rd.','East Bridgewater','MA','02333','Active');
+INSERT INTO brothers VALUES (58,'Christina','Watson','cwatson@wpi.edu','757-2195',1056,2003,'1981-10-10','15 Elbridge Street','3 Rolling Hill Way','Clark','NJ','07066','Active');
+INSERT INTO brothers VALUES (59,'Alissa','Wilson','neptune@wpi.edu','755-9784',2455,2002,'1979-08-09','148 West St. Apt. 3','','','','','Active');
+INSERT INTO brothers VALUES (62,'Elisa','Baker','elisab@wpi.edu','363-3796',817,0,'0000-00-00','26 Lancaster St. #3','','','','','Inactive');
+INSERT INTO brothers VALUES (63,'Danielle','Barber','danyellb@wpi.edu','831-6461',2555,2001,'0000-00-00','','','','','','Inactive');
+INSERT INTO brothers VALUES (64,'Jay','Bonci','jbonci@wpi.edu','831-6183',3085,2002,'0000-00-00','Founders 303B','','','','','Inactive');
+INSERT INTO brothers VALUES (65,'Jennifer','Brandl','jennb@wpi.edu','890-8784',744,2001,'0000-00-00','34 Wachusett St. #3','','','','','Inactive');
+INSERT INTO brothers VALUES (66,'Jessica','Brown','jkbrown@wpi.edu','752-8804',1567,0,'0000-00-00','15 Elbridge','','','','','Inactive');
+INSERT INTO brothers VALUES (67,'Julie','Cerqueira','geleias@wpi.edu','363-3796',1546,0,'0000-00-00','26 Lancaster St. #3','','','','','Inactive');
+INSERT INTO brothers VALUES (68,'Steve','Gaynor','steveneg@wpi.edu','757-5525',1003,2002,'0000-00-00','59 N Ashland Apt 1','','','','','Inactive');
+INSERT INTO brothers VALUES (69,'Nate','Godin','nate@wpi.edu','831-6425',2704,2002,'0000-00-00','Founders 203','','','','','Inactive');
+INSERT INTO brothers VALUES (70,'Ethan','Croteau','ecroteau@wpi.edu','831-6252',3043,0,'0000-00-00','Daniels 414','','','','','Inactive');
+INSERT INTO brothers VALUES (71,'Robert-Sean','Harley','harley@wpi.edu','',1178,2002,'0000-00-00','Healthy Alt. #3','','','','','Inactive');
+INSERT INTO brothers VALUES (72,'Brynn Gemma','Hart','bhart@wpi.edu','831-5159',3156,2001,'0000-00-00','Morgan 210','','','','','Inactive');
+INSERT INTO brothers VALUES (73,'Jill Anne','Hurynowicz','jill02@wpi.edu','831-6829',2048,2002,'0000-00-00','SC 205','','','','','Inactive');
+INSERT INTO brothers VALUES (74,'Karen','Kosinski','karenk@wpi.edu','831-6498',1271,2002,'0000-00-00','Fuller 25','','','','','Inactive');
+INSERT INTO brothers VALUES (75,'Paul','Laplume','orpheus@wpi.edu','831-6507',2045,2001,'0000-00-00','Founders 207C','','','','','Inactive');
+INSERT INTO brothers VALUES (76,'Rob','McElhaney','robmac@wpi.edu','831-6562',2703,0,'0000-00-00','Founders 307','','','','','Inactive');
+INSERT INTO brothers VALUES (77,'Kathryn','McWilliams','katemc@wpi.edu','753-5893',2754,2001,'0000-00-00','24 Elbridge St. Apt.1','','','','','Inactive');
+INSERT INTO brothers VALUES (78,'Nathanael C.','Milne','nmilne@wpi.edu','831-6579',2905,2001,'0000-00-00','FH 107 C','','','','','Inactive');
+INSERT INTO brothers VALUES (79,'Joel','Navaroli','djnavs22@wpi.edu','',2386,2001,'1979-04-22','Founders 414A','','','','','Inactive');
+INSERT INTO brothers VALUES (80,'Vishnu S.','Pandey','vpandey@wpi.edu','798-8162',1250,2001,'0000-00-00','142 West St. Apt #1','','','','','Inactive');
+INSERT INTO brothers VALUES (81,'Jenn','Patoulidis','jennyp@wpi.edu','754-4148',653,2001,'0000-00-00','164 Russell Street #3','','','','','Inactive');
+INSERT INTO brothers VALUES (82,'Emily','Renolyds','epr@wpi.edu','X6461',2240,2001,'0000-00-00','EA 13','','','','','Inactive');
+INSERT INTO brothers VALUES (83,'Hilary','Seling','zoelives@wpi.edu','753-5893',3160,2001,'0000-00-00','24 Elbridge St. Apt.1','','','','','Inactive');
+INSERT INTO brothers VALUES (84,'Jeffrey','Sinnamon','sinnamon@wpi.edu','',0,0,'0000-00-00','','','','','','Inactive');
+INSERT INTO brothers VALUES (85,'Frederick','Tan','prion@wpi.edu','757-0130',2427,2001,'0000-00-00','63 Wachussett St. Goon Rm (TKE)','','','','','Inactive');
+INSERT INTO brothers VALUES (86,'Jessa','Thomas','jessa@wpi.edu','363-2763',2756,2002,'0000-00-00','18 Hampden Street, floor #1','','','','','Inactive');
+INSERT INTO brothers VALUES (87,'Anthony','Zamarro','tony333@wpi.edu','767-9885',524,2001,'0000-00-00','139 Highland St. Apt 4','','','','','Alumni');
+INSERT INTO brothers VALUES (88,'James','O\'Rourke','orourke@wpi.edu','831-5233',0,0,'0000-00-00','111A Atwater Kent','','','','','Advisor');
+INSERT INTO brothers VALUES (89,'Sgt Steve','Desy','sbdesy@wpi.edu','831-5463',0,0,'0000-00-00','35 Dean Street','','','','','Advisor');
+INSERT INTO brothers VALUES (90,'Ryan Cartland','McDaniel','rmcdaniel@alum.wpi.edu','769-1007',0,0,'0000-00-00','215 Mechanic St. Marlborough','','','','','Advisor');
+INSERT INTO brothers VALUES (91,'Wesley','Mott','wmott@wpi.edu','831-5441',0,0,'0000-00-00','236 Salisbury Labs','','','','','Advisor');
+INSERT INTO brothers VALUES (92,'Robert','Wilder','rawilder@wpi.edu','831-5253',0,0,'0000-00-00','Morgan Commons','','','','','Advisor');
+INSERT INTO brothers VALUES (93,'Clarence','Plant','cplant@wpi.edu','',0,0,'0000-00-00','','','','','','Advisor');
+
+#
+# Table structure for table 'webcal_entry'
+#
+CREATE TABLE webcal_entry (
+  cal_id int(11) DEFAULT '0' NOT NULL,
+  cal_group_id int(11),
+  cal_create_by varchar(25) DEFAULT '' NOT NULL,
+  cal_date int(11) DEFAULT '0' NOT NULL,
+  cal_time int(11),
+  cal_mod_date int(11),
+  cal_mod_time int(11),
+  cal_duration int(11) DEFAULT '0' NOT NULL,
+  cal_priority int(11) DEFAULT '2',
+  cal_type char(1) DEFAULT 'E',
+  cal_access char(1) DEFAULT 'P',
+  cal_name varchar(80) DEFAULT '' NOT NULL,
+  cal_description text,
+  PRIMARY KEY (cal_id)
+);
+
+#
+# Dumping data for table 'webcal_entry'
+#
+
+INSERT INTO webcal_entry VALUES (3,NULL,'admin',20010130,180000,20010130,104518,60,2,'E','P','Inductions','OH218\r\nMovie night at Jo\'s afterwards');
+INSERT INTO webcal_entry VALUES (2,NULL,'admin',20010130,130000,20010130,133813,0,2,'M','P','SerComm','Gompei\'s 1:00pm\r\n\r\nAll the Cool Kids will be there');
+INSERT INTO webcal_entry VALUES (15,NULL,'admin',20010331,-1,20010201,164647,0,2,'M','P','BSCB Conference','Guides for the blind');
+INSERT INTO webcal_entry VALUES (1,NULL,'admin',20010129,183000,20010129,222516,60,2,'M','P','Brother Meeting','Brother Meeting\r\nHL218');
+INSERT INTO webcal_entry VALUES (4,NULL,'admin',20010201,180000,20010130,85413,60,2,'E','P','Inductions','OH218\r\n\r\nFellowship Afterwards');
+INSERT INTO webcal_entry VALUES (5,NULL,'admin',20010130,113000,20010130,100544,120,2,'M','P','Hunger Campaign','DAKA Hunger Campaign\r\nMorgan and Founders');
+INSERT INTO webcal_entry VALUES (6,NULL,'admin',20010201,113000,20010130,100643,120,2,'M','P','Hunger Campaign','DAKA Hunger Campaign\r\nMorgan and Founders');
+INSERT INTO webcal_entry VALUES (7,NULL,'admin',20010130,183000,20010130,102309,60,2,'E','P','Basketball','Alumni Gym');
+INSERT INTO webcal_entry VALUES (8,NULL,'admin',20010131,130000,20010130,133902,0,2,'M','P','FelComm','In the Office\r\nWe will play Atari and make cards\r\n\r\nAll the cool kids will be there');
+INSERT INTO webcal_entry VALUES (9,NULL,'admin',20010131,-1,20010130,102450,0,2,'E','P','Nursing Home','Visit a Nursing Home');
+INSERT INTO webcal_entry VALUES (10,NULL,'admin',20010202,190000,20010130,102641,0,2,'E','P','Broomball and Movie','Broomball - Meet in the Wedge 7:00\r\nMovie afterwards');
+INSERT INTO webcal_entry VALUES (11,NULL,'admin',20010202,193000,20010130,102729,60,2,'E','P','Basketball','Basketball 7:30 Alumni\r\n\r\nWe need all the help we can get');
+INSERT INTO webcal_entry VALUES (12,NULL,'admin',20010206,183000,20010130,102833,60,2,'E','P','Basketball','Basketball - Alumi Gym\r\n\r\nWe need all the help we can get!');
+INSERT INTO webcal_entry VALUES (13,NULL,'admin',20010216,-1,20010130,133525,0,2,'E','P','APO Bowl','APO Bowl 2001');
+INSERT INTO webcal_entry VALUES (14,NULL,'admin',20010213,100000,20010130,133724,840,2,'E','P','SleepOut','SleepOut on the Quad\r\n\"Snuggle with your Sweetheart\"');
+INSERT INTO webcal_entry VALUES (16,NULL,'admin',20010331,80000,20010201,164623,360,2,'E','P','MS Walk','volunteers to help w/ registration');
+
+#
+# Table structure for table 'webcal_entry_repeats'
+#
+CREATE TABLE webcal_entry_repeats (
+  cal_id int(11) DEFAULT '0' NOT NULL,
+  cal_type varchar(20),
+  cal_end int(11),
+  cal_frequency int(11) DEFAULT '1',
+  cal_days varchar(7),
+  PRIMARY KEY (cal_id)
+);
+
+#
+# Dumping data for table 'webcal_entry_repeats'
+#
+
+INSERT INTO webcal_entry_repeats VALUES (1,'weekly',20010301,1,'nynnnnn');
+INSERT INTO webcal_entry_repeats VALUES (5,'weekly',20010301,1,'nnynnnn');
+INSERT INTO webcal_entry_repeats VALUES (6,'weekly',20010301,1,'nnnnynn');
+INSERT INTO webcal_entry_repeats VALUES (2,'weekly',20010301,1,'nnynnnn');
+INSERT INTO webcal_entry_repeats VALUES (8,'weekly',20010301,1,'nnnynnn');
+INSERT INTO webcal_entry_repeats VALUES (15,'daily',20010401,1,'nnnnnnn');
+
+#
+# Table structure for table 'webcal_entry_user'
+#
+CREATE TABLE webcal_entry_user (
+  cal_id int(11) DEFAULT '0' NOT NULL,
+  cal_login varchar(25) DEFAULT '' NOT NULL,
+  cal_status char(1) DEFAULT 'A',
+  PRIMARY KEY (cal_id,cal_login)
+);
+
+#
+# Dumping data for table 'webcal_entry_user'
+#
+
+INSERT INTO webcal_entry_user VALUES (1,'admin','A');
+INSERT INTO webcal_entry_user VALUES (2,'admin','A');
+INSERT INTO webcal_entry_user VALUES (3,'admin','A');
+INSERT INTO webcal_entry_user VALUES (4,'admin','A');
+INSERT INTO webcal_entry_user VALUES (5,'admin','A');
+INSERT INTO webcal_entry_user VALUES (6,'admin','A');
+INSERT INTO webcal_entry_user VALUES (7,'admin','A');
+INSERT INTO webcal_entry_user VALUES (8,'admin','A');
+INSERT INTO webcal_entry_user VALUES (9,'admin','A');
+INSERT INTO webcal_entry_user VALUES (10,'admin','A');
+INSERT INTO webcal_entry_user VALUES (11,'admin','A');
+INSERT INTO webcal_entry_user VALUES (12,'admin','A');
+INSERT INTO webcal_entry_user VALUES (13,'admin','A');
+INSERT INTO webcal_entry_user VALUES (14,'admin','A');
+INSERT INTO webcal_entry_user VALUES (15,'admin','A');
+INSERT INTO webcal_entry_user VALUES (16,'admin','A');
+
+#
+# Table structure for table 'webcal_user'
+#
+CREATE TABLE webcal_user (
+  cal_login varchar(25) DEFAULT '' NOT NULL,
+  cal_passwd varchar(25),
+  cal_lastname varchar(25),
+  cal_firstname varchar(25),
+  cal_is_admin char(1) DEFAULT 'N',
+  cal_email varchar(75),
+  PRIMARY KEY (cal_login)
+);
+
+#
+# Dumping data for table 'webcal_user'
+#
+
+INSERT INTO webcal_user VALUES ('admin','Wangtast!c','Administrator','Default','Y','nassar@wpi.edu');
+
+#
+# Table structure for table 'webcal_user_layers'
+#
+CREATE TABLE webcal_user_layers (
+  cal_layerid int(11) DEFAULT '0' NOT NULL,
+  cal_login varchar(25) DEFAULT '' NOT NULL,
+  cal_layeruser varchar(25) DEFAULT '' NOT NULL,
+  cal_color varchar(25),
+  cal_dups char(1) DEFAULT 'N',
+  PRIMARY KEY (cal_login,cal_layeruser)
+);
+
+#
+# Dumping data for table 'webcal_user_layers'
+#
+
+
+#
+# Table structure for table 'webcal_user_pref'
+#
+CREATE TABLE webcal_user_pref (
+  cal_login varchar(25) DEFAULT '' NOT NULL,
+  cal_setting varchar(25) DEFAULT '' NOT NULL,
+  cal_value varchar(50),
+  PRIMARY KEY (cal_login,cal_setting)
+);
+
+#
+# Dumping data for table 'webcal_user_pref'
+#
+
+INSERT INTO webcal_user_pref VALUES ('admin','LANGUAGE','none');
+INSERT INTO webcal_user_pref VALUES ('admin','STARTVIEW','month');
+INSERT INTO webcal_user_pref VALUES ('admin','TIME_FORMAT','12');
+INSERT INTO webcal_user_pref VALUES ('admin','DISPLAY_UNAPPROVED','N');
+INSERT INTO webcal_user_pref VALUES ('admin','DISPLAY_WEEKNUMBER','Y');
+INSERT INTO webcal_user_pref VALUES ('admin','WEEK_START','0');
+INSERT INTO webcal_user_pref VALUES ('admin','WORK_DAY_START_HOUR','8');
+INSERT INTO webcal_user_pref VALUES ('admin','WORK_DAY_END_HOUR','22');
+INSERT INTO webcal_user_pref VALUES ('admin','BGCOLOR','#333366');
+INSERT INTO webcal_user_pref VALUES ('admin','H2COLOR','#FFB538');
+INSERT INTO webcal_user_pref VALUES ('admin','CELLBG','#FFFF00');
+INSERT INTO webcal_user_pref VALUES ('admin','TODAYCELLBG','#E0E0E0');
+

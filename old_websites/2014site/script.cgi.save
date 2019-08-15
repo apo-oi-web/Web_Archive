@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Content-type: text/html"
+echo ""
+echo "<html><head><title>APO LISTS</title></head><body>"
+echo "<table><tr><th>APO-PRESIDENT

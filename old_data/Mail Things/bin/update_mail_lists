@@ -1,0 +1,17 @@
+#!/bin/sh
+cd $HOME
+cd FTPSite/mailinglists
+
+/bin/rm -f apo-l.yesterday aposoc-l.yesterday >/dev/null
+
+/usr/bin/touch aposoc-l
+/bin/mv -f aposoc-l aposoc-l.yesterday
+/usr/bin/touch aposoc-l
+
+/usr/bin/touch apo-l
+/bin/mv -f apo-l apo-l.yesterday
+/usr/bin/touch apo-l
+
+cd $HOME
+/bin/date >> .mailstats
+/usr/local/bin/mailstat -l .mail >> .mailstats

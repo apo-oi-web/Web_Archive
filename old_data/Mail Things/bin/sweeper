@@ -1,0 +1,30 @@
+#!/bin/sh
+
+test "$1" '=' "-h" &&
+echo "
+                " &&
+echo "                      Sweeper Version 3.0 (by rion@wpi)
+                " &&
+echo "
+ This program assists in file organization and clean-up. Sweeper 3.0 now will
+ begin execution in you home directory, thus alleviatin' concerns of sweepin'
+ the wrong directory. Sweeper will remove the followin' files.
+
+     Any files marked with a tilde(~).
+     Any files enclosed in number signs(#)
+     Any files that are named dead.letter or dead.article.
+     Any files that are named *.out (executables)
+     Any files that are names *.o (object files)
+     Any files that are named core.
+     Any files that are names .nfs*.
+
+ The speed has been increased through the use of a stream-lined and customized
+ format, by deleting the files that are most commonly encountered. This should
+ improve the overall speed and execution. I've almost replaced all echo's with
+ a personal C code, which is a little faster. The overall speed change will be
+ most apparent in a 'slow' system.
+ " && exit 0
+
+test "$#" -gt "1" && echo "Too many arguments." && exit 0
+find $HOME '(' -name '*~' -o -name '.*~' -o -name '#*#' -o -name '*.out' -o -name 'dead.letter' -o -name 'dead.article' -o -name 'core' -o -name 'NEWREVERSE' -o -name 'REVERSE' -o -name '.nfs*' -o -name '*.o' -o -name '.oldnewsrc' -o -name '.Xdefaults.old' -o -name 'elmrc.old' ')' -print -exec rm -f {} ';'
+exit 0

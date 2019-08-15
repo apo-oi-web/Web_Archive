@@ -1,0 +1,23 @@
+a:link { color: #CCCCCC; }    
+a:visited { color: #CCCCCC; }    
+a:active { color: #CCCCCC; }
+a:hover { color:#444444; }
+
+body { color: black;
+       background-image: url(Images/background_textures_013.jpg); }
+
+table { border-width: 1px; }
+
+#world {
+    width: 750px;
+    background: #4969E1;
+    overflow: hidden;
+    margin:0 auto;
+    }
+
+#content {
+    width: 720px;
+    background: #4969E1;
+    overflow: hidden;
+    margin:0 auto;
+    }
